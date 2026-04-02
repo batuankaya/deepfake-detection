@@ -1,0 +1,61 @@
+# Deepfake Tespit Sistemi - Konfigurasyonu
+#
+# Referanslar:
+# [1] Towards Generalizable Deepfake Detection with Spatial-Frequency
+#     Collaborative Learning and Hierarchical Cross-Modal Fusion (2025)
+#     https://arxiv.org/abs/2504.17223
+# [2] Oz Denetimli Ogrenme Yaklasimlari ile Derin Sahte Ses ve Goruntu
+#     Manipulasyonunun Tespiti (Merve Yildirim, 2025) - YOK Tez No: 957056
+
+# Video on isleme
+preprocessing:
+  frame_rate: 5            # Saniyede cikarilacak kare sayisi
+  face_size: 224           # Yuz kirpma boyutu (piksel)
+  max_frames: 150          # Video basina maksimum kare
+  audio_sample_rate: 16000 # Ses ornekleme frekansi
+
+# Model 1: Uzamsal (Goruntu) Analiz
+spatial:
+  backbone: "efficientnet_b4"  # CNN omurgasi
+  lstm_hidden: 256
+  lstm_layers: 2
+  dropout: 0.3
+  pretrained: true
+  feature_dim: 256  # Fuzyon icin cikis boyutu
+
+# Model 2: Isitsel (Ses) Analiz [Ref 2: Cok modlu fuzyon altyapisi]
+audio:
+  n_mels: 128              # Mel-spektrogram bant sayisi
+  n_fft: 2048
+  hop_length: 512
+  model_type: "cnn"
+  feature_dim: 256  # Fuzyon icin cikis boyutu
+
+# Model 3: Spatial-Frequency Collaborative Learning [Ref 1]
+frequency:
+  block_size: 8            # Block-wise DCT blok boyutu
+  use_dct: true            # DCT kullanimi
+  use_fft: true            # FFT kullanimi
+  multi_scale: true        # Multi-scale convolution
+  feature_dim: 256         # Fuzyon icin cikis boyutu
+
+# Model 4: Hierarchical Cross-Modal Fusion [Ref 1 + Ref 2]
+fusion:
+  strategy: "hierarchical"     # hierarchical (yeni) veya late (eski)
+  hidden_dim: 256
+  num_heads: 4                 # Cross-modal attention head sayisi
+  num_classes: 2               # Gercek / Sahte
+  # Asama 1: Shallow-layer attention enhancement
+  # Asama 2: Deep-layer dynamic modulation
+
+# Egitim
+training:
+  batch_size: 16
+  learning_rate: 0.0001
+  epochs: 30
+  weight_decay: 0.00001
+  scheduler: "cosine"
+  early_stopping_patience: 5
+
+# Cihaz
+device: "auto"  # auto, cuda, mps, cpu
