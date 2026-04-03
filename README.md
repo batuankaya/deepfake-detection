@@ -99,9 +99,12 @@ deepfake/
 │   ├── raw/                          # Ham veri setleri
 │   └── processed/                    # İşlenmiş veriler
 ├── src/
+│   ├── inference.py                  # Uçtan uca inference pipeline
+│   ├── train.py                      # Eğitim scripti
 │   ├── preprocessing/
 │   │   ├── video_processor.py        # Video → kare + ses ayrıştırma
-│   │   └── face_detector.py          # MTCNN yüz tespiti
+│   │   ├── face_detector.py          # MTCNN yüz tespiti
+│   │   └── dataset.py                # DataLoader ve veri seti sınıfları
 │   ├── models/
 │   │   ├── spatial/
 │   │   │   └── spatial_model.py      # EfficientNet + LSTM
@@ -112,7 +115,11 @@ deepfake/
 │   │   └── fusion/
 │   │       └── fusion_model.py       # Hierarchical Cross-Modal Fusion
 │   └── utils/
-│       └── device.py                 # GPU/CPU cihaz seçimi
+│       ├── device.py                 # GPU/CPU cihaz seçimi
+│       ├── metrics.py                # Değerlendirme metrikleri (Acc, F1, AUC)
+│       └── visualize.py              # FFT/DCT görselleştirme araçları
+├── tests/
+│   └── test_models.py                # Model doğrulama testleri
 ├── notebooks/                        # Deneysel Jupyter notebook'lar
 ├── checkpoints/                      # Eğitilmiş model ağırlıkları
 └── requirements.txt
@@ -139,12 +146,50 @@ pip install -r requirements.txt
 
 ## Kullanım
 
+### Web Arayüzü
+
 ```bash
-# Streamlit arayüzünü başlat
 streamlit run app/streamlit_app.py
 ```
 
-Tarayıcınızdan `http://localhost:8501` adresine giderek bir `.mp4` video yükleyip analiz edebilirsiniz.
+Tarayıcıdan `http://localhost:8501` adresine gidip `.mp4` video yükleyerek analiz yapılabilir. Frekans analizi modülü şu an aktif olarak çalışmaktadır; diğer modüller eğitim sonrası aktif olacaktır.
+
+### Eğitim
+
+```bash
+# Frekans modülünü eğit
+python -m src.train --config configs/config.yaml --module frequency
+
+# Uzamsal modülü eğit
+python -m src.train --config configs/config.yaml --module spatial
+
+# Ses modülünü eğit
+python -m src.train --config configs/config.yaml --module audio
+```
+
+Eğitim için verilerin `data/processed/train/real/` ve `data/processed/train/fake/` klasörlerinde bulunması gerekmektedir.
+
+### Testler
+
+```bash
+python tests/test_models.py
+```
+
+Tüm modüllerin şekil/boyut uyumunu dummy veri ile doğrular.
+
+---
+
+## Güvenlik
+
+Uygulama aşağıdaki güvenlik önlemlerini içermektedir:
+
+- **XSS koruması**: Kullanıcı girdisi doğrudan HTML olarak render edilmez
+- **Dosya doğrulama**: Yüklenen dosyalarda uzantı whitelist ve boyut limiti (200MB) kontrolü
+- **Path traversal koruması**: Veri seti yükleme sırasında `is_relative_to()` ile yol doğrulama
+- **Deserialization güvenliği**: `np.load(allow_pickle=False)`, `yaml.safe_load()`
+- **Geçici dosya yönetimi**: `try/finally` bloğu ile garanti temizlik
+- **Girdi doğrulama**: Cihaz seçiminde whitelist, video yolunda dosya varlık kontrolü
+- **Hata yönetimi**: Kullanıcıya iç sistem bilgisi sızdırılmaz
 
 ---
 
