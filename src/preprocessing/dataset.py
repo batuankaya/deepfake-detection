@@ -33,14 +33,19 @@ class DeepfakeFrameDataset(Dataset):
         self.labels = []
 
         # real=0, fake=1
+        root_resolved = self.root_dir.resolve()
         for label, class_name in enumerate(["real", "fake"]):
             class_dir = self.root_dir / class_name
             if not class_dir.exists():
                 continue
             for img_path in sorted(class_dir.glob("*.png")):
+                if not img_path.resolve().is_relative_to(root_resolved):
+                    continue  # path traversal korunmasi
                 self.samples.append(str(img_path))
                 self.labels.append(label)
             for img_path in sorted(class_dir.glob("*.jpg")):
+                if not img_path.resolve().is_relative_to(root_resolved):
+                    continue
                 self.samples.append(str(img_path))
                 self.labels.append(label)
 
@@ -102,11 +107,14 @@ class DeepfakeVideoDataset(Dataset):
 
         self.samples = []  # (video_dir, label)
 
+        root_resolved = self.root_dir.resolve()
         for label, class_name in enumerate(["real", "fake"]):
             class_dir = self.root_dir / class_name
             if not class_dir.exists():
                 continue
             for video_dir in sorted(class_dir.iterdir()):
+                if not video_dir.resolve().is_relative_to(root_resolved):
+                    continue  # path traversal korunmasi
                 if video_dir.is_dir() and (video_dir / "frames").exists():
                     self.samples.append((str(video_dir), label))
 
@@ -140,7 +148,7 @@ class DeepfakeVideoDataset(Dataset):
         # Ses spektrogrami yukle
         audio_path = video_dir / "audio.npy"
         if audio_path.exists():
-            audio = np.load(str(audio_path))
+            audio = np.load(str(audio_path), allow_pickle=False)
             audio = torch.from_numpy(audio).float().unsqueeze(0)  # (1, n_mels, T)
         else:
             audio = torch.zeros(1, 128, 300)  # Bos spektrogram

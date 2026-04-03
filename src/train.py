@@ -23,7 +23,10 @@ from src.utils.metrics import MetricsTracker
 
 
 def load_config(path: str) -> dict:
-    with open(path) as f:
+    config_path = Path(path).resolve()
+    if not config_path.exists():
+        raise FileNotFoundError(f"Config dosyasi bulunamadi: {config_path}")
+    with open(config_path) as f:
         return yaml.safe_load(f)
 
 

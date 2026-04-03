@@ -2,9 +2,17 @@
 
 import torch
 
+ALLOWED_DEVICES = {"auto", "cuda", "mps", "cpu"}
+
 
 def get_device(config_device: str = "auto") -> torch.device:
     """Uygun hesaplama cihazini secer."""
+    if config_device not in ALLOWED_DEVICES:
+        raise ValueError(
+            f"Gecersiz cihaz: '{config_device}'. "
+            f"Gecerli degerler: {ALLOWED_DEVICES}"
+        )
+
     if config_device == "auto":
         if torch.cuda.is_available():
             return torch.device("cuda")
