@@ -120,6 +120,10 @@ deepfake/
 │       └── visualize.py              # FFT/DCT görselleştirme araçları
 ├── tests/
 │   └── test_models.py                # Model doğrulama testleri
+├── docs/
+│   ├── literature_review.md          # Literatür taraması (30 yayın, 7 kategori)
+│   ├── literature_review.csv         # Aynı tarama, CSV/Excel formatı
+│   └── literature_review.tex         # Tez için LaTeX longtable
 ├── notebooks/                        # Deneysel Jupyter notebook'lar
 ├── checkpoints/                      # Eğitilmiş model ağırlıkları
 └── requirements.txt
@@ -200,6 +204,8 @@ Uygulama aşağıdaki güvenlik önlemlerini içermektedir:
 
 2. **Öz Denetimli Öğrenme Yaklaşımları ile Derin Sahte Ses ve Görüntü Manipülasyonunun Tespiti**
    — Merve Yıldırım, 2025 — YÖK Tez Merkezi (Tez No: 957056)
+
+Tüm literatür için: [`docs/literature_review.md`](docs/literature_review.md) (30 yayın, 2020–2025).
 
 ---
 

@@ -1,0 +1,139 @@
+% =====================================================================
+% Literatur Taramasi - LaTeX Tablosu
+% Proje: Spatial-Frequency Collaborative Learning ve Hierarchical
+%        Cross-Modal Fusion Tabanli Deepfake Tespiti
+% Hazirlayan: Batuhan Kaya - 232923023
+%
+% Gerekli paketler (preamble'a eklenmeli):
+%   \usepackage[turkish]{babel}
+%   \usepackage[utf8]{inputenc}
+%   \usepackage[T1]{fontenc}
+%   \usepackage{longtable}
+%   \usepackage{array}
+%   \usepackage{booktabs}
+%   \usepackage{tabularx}
+%   \usepackage[landscape, margin=1.5cm]{geometry}  % yatay sayfa onerilir
+% =====================================================================
+
+\begin{landscape}
+\footnotesize
+\renewcommand{\arraystretch}{1.25}
+
+\begin{longtable}{@{}p{0.5cm} p{4.2cm} p{3.0cm} p{1.6cm} p{3.0cm} p{3.0cm} p{4.2cm} p{3.5cm}@{}}
+\caption{Deepfake Tespiti Literatur Taramasi (2020--2025, 30 yayin)} \label{tab:lit-review} \\
+\toprule
+\textbf{\#} & \textbf{Yayinin Adi} & \textbf{Yazarlar} & \textbf{Tarih} & \textbf{Yayinlandigi Yer} & \textbf{Kullanilan Dataset} & \textbf{Uygulanan Yontem} & \textbf{Basari Metrikleri} \\
+\midrule
+\endfirsthead
+
+\multicolumn{8}{c}{\tablename\ \thetable{} -- devami} \\
+\toprule
+\textbf{\#} & \textbf{Yayinin Adi} & \textbf{Yazarlar} & \textbf{Tarih} & \textbf{Yayinlandigi Yer} & \textbf{Kullanilan Dataset} & \textbf{Uygulanan Yontem} & \textbf{Basari Metrikleri} \\
+\midrule
+\endhead
+
+\midrule \multicolumn{8}{r}{\textit{Sonraki sayfada devam ediyor}} \\
+\endfoot
+
+\bottomrule
+\endlastfoot
+
+% --- Kategori 1: Cekirdek Calismalar ---
+\multicolumn{8}{l}{\textbf{Kategori 1: Cekirdek (Ana Referans) Calismalar}} \\
+\midrule
+1 & Towards Generalizable Deepfake Detection with Spatial-Frequency Collaborative Learning and Hierarchical Cross-Modal Fusion & Mengyu Qiao, Runze Tian & Nisan 2025 & arXiv:2504.17223 & FaceForensics++ (c23, c40); Celeb-DF v2; DFDC & Block-wise DCT + Cascaded Multi-scale Conv (3$\times$3, 5$\times$5, 7$\times$7) + Scale-invariant Differential Accumulation + Hierarchical Cross-Modal Fusion & FF++ c23: \%97.43 Acc / \%99.58 AUC; FF++ c40: \%91.77 Acc / \%94.21 AUC; Celeb-DF v2: \%74.68 AUC; DFDC: \%73.71 AUC \\
+\midrule
+2 & Oz Denetimli Ogrenme Yaklasimlari ile Derin Sahte Ses ve Goruntu Manipulasyonunun Tespiti & Merve Yildirim & 2025 & YOK Tez Merkezi (Tez No: 957056) & FaceForensics++; ASVspoof & Self-Supervised Learning (SSL) + Wav2Vec/HuBERT + ViT & Tez icerisinde belirtilmis \\
+\midrule
+
+% --- Kategori 2: Frekans Tabanli ---
+\multicolumn{8}{l}{\textbf{Kategori 2: Frekans Tabanli (DCT/FFT) Tespit Yontemleri}} \\
+\midrule
+3 & Leveraging Frequency Analysis for Deep Fake Image Recognition & J. Frank, T. Eisenhofer, L. Schonherr, A. Fischer, D. Kolossa, T. Holz & 2020 & ICML 2020 & CelebA; FFHQ; LSUN-Bedroom; StyleGAN & DCT spektrumu + CNN + Logistic Regression + KNN & \%100'e yakin Acc (StyleGAN/CelebA) \\
+\midrule
+4 & Fighting Deepfakes by Detecting GAN DCT Anomalies & O. Giudice, L. Guarnera, S. Battiato & 2021 & Journal of Imaging (MDPI) & CelebA; StarGAN; GDWCT; AttGAN; StyleGAN; StyleGAN2 & $\beta$-AC katsayilari ile GSF cikarimi + SVM/k-NN & Siniflandirma Acc \textgreater \%99; JPEG/dondurme robust \\
+\midrule
+5 & FreqNet: Frequency-Aware Deepfake Detection & C. Tan, Y. Zhao, S. Wei, G. Gu, P. Liu, Y. Wei & Mart 2024 & AAAI 2024 & 17 farkli GAN; ForenSynths & FFT/iFFT arasinda phase + amplitude spectra conv & Baseline'a gore +\%9.8 performans \\
+\midrule
+6 & CAE-Net: Generalized Deepfake Image Detection using Convolution and Attention Mechanisms & Ahmed K. vd. & Subat 2025 & arXiv:2502.10682 & FaceForensics++; Celeb-DF; DFDC; diffusion & Block-wise DCT + cross-band/cross-block conv + Spatial CNN + Attention & GAN: \%97.7 Acc; Diffusion: \%73 Acc \\
+\midrule
+7 & SFIAD: Deepfake detection through spatial-frequency feature integration and dynamic margin optimization & Coklu yazar & 2025 & Artificial Intelligence Review (Springer) & FaceForensics++; Celeb-DF & Spatial + Frequency feature integration + Dynamic Margin Loss & Cross-dataset SOTA ustu \\
+\midrule
+
+% --- Kategori 3: Multimodal ve Fuzyon ---
+\multicolumn{8}{l}{\textbf{Kategori 3: Cok Modlu (Multimodal) ve Hiyerarsik Fuzyon Yontemleri}} \\
+\midrule
+8 & HOLA: Enhancing Audio-Visual Deepfake Detection via Hierarchical Contextual Aggregations & X. Wu, D. Huang, H. Sun vd. & Temmuz 2025 & arXiv:2507.22781 & 1.81M self-built + 1M-Deepfakes Challenge & Iterative-Aware Cross-Modal Learning + Hierarchical Contextual Modeling + Pyramid Refiner & 1M-Deepfakes Video-Level 1.lik; +0.0476 AUC \\
+\midrule
+9 & HFMF: Hierarchical Fusion Meets Multi-Stream Models & A. Mehta, B. McArthur, N. Kolloju, Z. Tu & Ocak 2025 & WACV 2025 Workshops & FaceForensics++; Celeb-DF; DFDC & Multi-stream CNN + ViT + Hiyerarsik Fuzyon & Single-stream baseline'lari +\%3-7 AUC \\
+\midrule
+10 & Enhancing multimodal deepfake detection with local-global feature integration and diffusion models & Coklu yazar & 2025 & Signal, Image and Video Processing (Springer) & FakeAVCeleb; DFDC & CNN (lokal) + ViT (global) + Audio + Diffusion-aware & FakeAVCeleb \textgreater \%95 Acc \\
+\midrule
+11 & Modality-Agnostic Deepfakes Detection & Coklu yazar & 2025 & ACM IH\&MMSec 2025 & FakeAVCeleb; DFDC & Audio-Visual Speech Recognition + missing modality handling & Tek modalite eksik dahi \textgreater \%90 AUC \\
+\midrule
+12 & A Comprehensive Survey of DeepFake Generation and Detection Techniques in Audio-Visual Media & Coklu yazar & 2025 & ICCK Journal of AI Patterns & Survey & Audio + Visual + Text uclu inceleme & Karsilastirma tablosu \\
+\midrule
+
+% --- Kategori 4: Spatial-Temporal ---
+\multicolumn{8}{l}{\textbf{Kategori 4: Uzamsal-Zamansal (Spatial-Temporal) Tek Modlu Yontemler}} \\
+\midrule
+13 & Video deepfake detection using a hybrid CNN-LSTM-Transformer model for identity verification & Coklu yazar & 2024 & Multimedia Tools and Applications (Springer) & FaceForensics++; DFDC & EfficientNet + LSTM + Transformer + 3DMM & Image: \%95 Acc; Video: \%87 Acc \\
+\midrule
+14 & Video Deepfake Detection Using EfficientNet and LSTM & Coklu yazar & Mart 2025 & IRJIET Vol-9 Issue-3 & FaceForensics++ alt-kume & EfficientNet-B0 + LSTM & $\sim$\%93 Acc \\
+\midrule
+15 & LightFakeDetect: A Lightweight Model for Deepfake Detection in Videos & Coklu yazar & 2025 & Mathematics (MDPI) & Celeb-DF; FF++ & MobileNet + bolgesel attention & $\sim$\%91 Acc; dusuk FLOPS \\
+\midrule
+16 & An Investigation into the Utilisation of CNN with LSTM for Video Deepfake Detection & Coklu yazar & 2024 & Applied Sciences (MDPI) Vol.14 & DFDC; FF++ & ResNet/Xception + LSTM & \%88--\%92 Acc \\
+\midrule
+
+% --- Kategori 5: Generalization ---
+\multicolumn{8}{l}{\textbf{Kategori 5: Genelleme (Generalization) Odakli Yontemler}} \\
+\midrule
+17 & Transcending Forgery Specificity with Latent Space Augmentation (LSA) & Z. Yan, Y. Luo, S. Lyu, Q. Liu, B. Wu & Haziran 2024 & CVPR 2024 & FF++; Celeb-DF; DFDC; WildDeepfake & Latent space augmentation + forgery feature enlargement & Cross-dataset AUC +\%3-7 \\
+\midrule
+18 & DiffusionFake: Enhancing Generalization via Guided Stable Diffusion & Coklu yazar & Aralik 2024 & NeurIPS 2024 & FF++; Celeb-DF; DFDC; DFD & Stable Diffusion reverse generation + hybrid features & Celeb-DF AUC: $\sim$\%85; DFDC: $\sim$\%78 \\
+\midrule
+19 & Deepfake Detection that Generalizes Across Benchmarks & Coklu yazar & Agustos 2025 & arXiv:2508.06248 & FF++; Celeb-DF; DFDC; DFDCP; WildDeepfake & Benchmark-invariant representation learning & Cross-benchmark AUC \%80+ \\
+\midrule
+20 & Towards Generalizable Deepfake Detection by Primary Region Regularization & Coklu yazar & 2024 & ACM TOMM & FF++; Celeb-DF & Primary face region regularization + attention & Cross-data AUC +\%4-6 \\
+\midrule
+
+% --- Kategori 6: Audio ---
+\multicolumn{8}{l}{\textbf{Kategori 6: Ses (Audio) Deepfake Tespit Yontemleri}} \\
+\midrule
+21 & Deepfake Audio Detection Using Spectrogram-based Feature and Ensemble of Deep Learning Models & Coklu yazar & Temmuz 2024 & arXiv:2407.01777 & ASVspoof 2019 LA & Mel-spectrogram + CNN ensemble (ResNet, EfficientNet) & EER: 0.03; AUC: 0.994 (Top-3 ASVspoof 2019) \\
+\midrule
+22 & Deepfake audio detection with spectral features and ResNeXt-based architecture & Coklu yazar & 2025 & Knowledge-Based Systems (Elsevier) & ASVspoof 2019; ASVspoof 2021 & MFCC + Mel-spectrogram + ResNeXt & ASVspoof 2019: EER \%2.1; 2021: EER \%5.4 \\
+\midrule
+23 & Hybrid CNN-LSTM Architectures for Deepfake Audio Detection Using MFCC and Spectrogram Analysis & Coklu yazar & 2025 & American Journal of Math. and Comp. Modelling & ASVspoof 2019; FoR & CNN + LSTM (MFCC + Mel) & \%93+ Acc \\
+\midrule
+24 & Quantum Vision Theory Applied to Audio Classification for Deepfake Speech Detection & Coklu yazar & 2025 & arXiv:2604.08104 & ASVspoof 2019 & Quantum-inspired CNN + Mel-spectrogram & \%94.57 Acc; EER \%9.04 \\
+\midrule
+25 & Audio Deepfake Detection via a Fuzzy Dual-Path Time-Frequency Attention Network & Coklu yazar & 2025 & PMC (open-access) & ASVspoof 2019; In-the-wild & Fuzzy attention + dual-path time-frequency & EER \%1.85 (ASVspoof 2019) \\
+\midrule
+
+% --- Kategori 7: Dataset/Benchmark ---
+\multicolumn{8}{l}{\textbf{Kategori 7: Veri Setleri ve Benchmark Calismalari}} \\
+\midrule
+26 & Celeb-DF: A Large-scale Challenging Dataset for DeepFake Forensics & Y. Li, X. Yang, P. Sun, H. Qi, S. Lyu & Haziran 2020 & CVPR 2020 & Celeb-DF (590 gercek + 5639 sahte) & Yeni veri seti; Xception, MesoNet baseline & SOTA AUC $\sim$\%65-75 (FF++'da \%95+) \\
+\midrule
+27 & Celeb-DF++: A Large-scale Challenging Video DeepFake Benchmark & Coklu yazar & Temmuz 2025 & arXiv:2507.18015 & Celeb-DF v2 + yeni manipulasyonlar & Benchmark + cross-method test & SOTA AUC \%60-78 \\
+\midrule
+28 & DeepfakeBench: A Comprehensive Benchmark of Deepfake Detection & Z. Yan, Y. Zhang, X. Yuan, S. Lyu, B. Wu & Aralik 2023 & NeurIPS 2023 (D\&B) & FF++; DFD; FaceShifter; DFDC; DFDCP; Celeb-DF v1/v2; UADFV & 15+ modelin standart kiyaslamasi & Cross-dataset AUC tablosu \\
+\midrule
+29 & Inclusion 2024: Global Multimedia Deepfake Detection Challenge & Challenge Organizatorleri & Aralik 2024 & arXiv:2412.20833 & Multi-dimensional Face Forgery Dataset & Yarisma; cok boyutlu sahtecilik & Top-3 takim Acc \textgreater \%95 \\
+\midrule
+30 & A Contemporary Survey on Deepfake Detection: Datasets, Algorithms, and Challenges & Coklu yazar & 2024 & Electronics (MDPI) Vol.13 & Survey & Tum yaklasimlarin taksonomisi & ViT dusus \%11.33; CNN dusus \textgreater \%15 \\
+
+\end{longtable}
+
+\end{landscape}
+
+% =====================================================================
+% KULLANIM:
+% 1. Bu dosyayi tezinin ana .tex dosyasinda \input{docs/literature_review}
+%    seklinde dahil et.
+% 2. Preamble'a yukarida listelenen paketleri ekle.
+% 3. Yatay (landscape) sayfa onerilir; uzun tablo nedeniyle pdflatex
+%    derlemesi 2 kez calistirilmali (\label cozumu icin).
+% =====================================================================
