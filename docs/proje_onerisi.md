@@ -87,46 +87,47 @@ Tarama sonucunda projenin doldurmayı hedeflediği boşluklar:
 
 ### 3.1. Kullanılacak Veri Setleri
 
-Veri setleri kullanım önceliğine göre üç gruba ayrılmıştır:
+Veri setleri literatürdeki standart kullanıma uyumlu seçilmiştir. Taranan 30 makalenin **20'den fazlasında** kullanılan FF++ + Celeb-DF v2 + DFDC üçlüsü, projenin de omurgasını oluşturur.
 
 #### A. Birincil (Mutlaka Kullanılacak)
 
 | Veri Seti | Modalite | İçerik | Kullanım Amacı | Boyut | Erişim |
 |-----------|----------|--------|----------------|------:|--------|
-| **FaceForensics++ c23** | Video (görüntü+ses) | 1000 gerçek + 4000 manipüle (Deepfakes, Face2Face, FaceSwap, NeuralTextures), orta sıkıştırma | Birincil eğitim ve in-dataset değerlendirme (3 modül de) | ~38 GB | Akademik başvuru ([github.com/ondyari/FaceForensics](https://github.com/ondyari/FaceForensics)) |
-| **ASVspoof 2019 LA** | Ses | 121k bona-fide + spoofed konuşma kaydı | Ses modülü pre-training | ~8 GB | [asvspoof.org](https://www.asvspoof.org/) |
-| **Celeb-DF v2** | Video | 590 gerçek + 5639 sahte ünlü videosu | Cross-dataset genelleme testi (eğitime KATILMAZ) | ~16 GB | Akademik başvuru |
-| **DFDC preview** | Video (görüntü+ses) | ~5000 klip alt-küme | İkinci cross-dataset genelleme testi (eğitime KATILMAZ) | ~5 GB | Kaggle |
+| **FaceForensics++ c23** | Video (görüntü+ses) | 1000 gerçek + 4000 manipüle (Deepfakes, Face2Face, FaceSwap, NeuralTextures), orta sıkıştırma | Birincil eğitim ve in-dataset değerlendirme (3 modül de) | ~38 GB | Kaggle mirror (`xdxd003/ff-c23`) |
+| **ASVspoof 2019 LA** | Ses | 121k bona-fide + spoofed konuşma kaydı | Ses modülü pre-training | ~8 GB | Edinburgh datashare (direkt indirme) |
+| **Celeb-DF v2** | Video | 590 gerçek + 5639 sahte ünlü videosu | Cross-dataset genelleme testi (eğitime KATILMAZ) | ~16 GB | Açık kaynak mirror |
+| **DFDC (Kaggle competition)** | Video (görüntü+ses) | Tam setten 1-2 parça (`dfdc_train_part_00.zip`, `dfdc_train_part_01.zip`), her parça ~5000 klip | İkinci cross-dataset genelleme testi (eğitime KATILMAZ) | ~10-20 GB | Kaggle competition sayfası |
 
 #### B. Opsiyonel (Zaman Kalırsa Eklenecek)
 
 | Veri Seti | Modalite | İçerik | Kullanım Amacı | Boyut | Erişim |
 |-----------|----------|--------|----------------|------:|--------|
-| **FakeAVCeleb** | Audio-Visual | 500 gerçek + 19500 sahte (gerçek-ses-sahte-görüntü kombinasyonları) | Çok modlu füzyon ek doğrulama; jüriye fazladan cross-dataset puanı | ~9 GB | Akademik başvuru |
-| **FaceForensics++ c40** | Video | FF++ aynı içerik, yüksek sıkıştırma | Sıkıştırma robustluk testi | ~10 GB | FF++ portalı |
+| **WildDeepfake** | Video | 7314 yüz dizisi, gerçek YouTube videolarından | Üçüncü cross-dataset doğrulama | ~6 GB | GitHub release |
+| **FakeAVCeleb** | Audio-Visual | 500 gerçek + 19500 sahte (gerçek-ses-sahte-görüntü kombinasyonları) | Çok modlu füzyon ek doğrulama | ~9 GB | Akademik başvuru |
+| **FaceForensics++ c40** | Video | FF++ aynı içerik, yüksek sıkıştırma | Sıkıştırma robustluk testi | ~10 GB | Kaggle mirror |
 
 #### C. Kullanılmayacak
 
 | Veri Seti | Sebep |
 |-----------|-------|
 | FF++ raw (kayıpsız) | ~500 GB, in-dataset performansa katkısı sınırlı |
-| DFDC full train | ~470 GB, preview alt-küme cross-dataset için yeterli |
+| DFDC full train (tüm 50 parça) | ~470 GB, 1-2 parça cross-dataset için yeterli |
 | Celeb-DF v1 | v2 daha kapsamlı ve güncel; v1'i kapsıyor |
 
 #### Toplam Depolama Gereksinimi
 
 | Senaryo | Ham Veri | İşlenmiş + Checkpoint | Toplam |
 |---------|---------:|----------------------:|-------:|
-| Minimum (Faz 1, sadece FF++ kısmi) | 10 GB | 15 GB | **~25 GB** |
-| Önerilen (A grubu tamamı) | 67 GB | 38 GB | **~105 GB** |
-| Geniş (A + B grupları) | 86 GB | 49 GB | **~135 GB** |
+| Minimum (FF++ kısmi + ASVspoof + Celeb-DF) | 32 GB | 25 GB | **~57 GB** |
+| Önerilen (A grubu tamamı, DFDC 1 parça) | 72 GB | 40 GB | **~112 GB** |
+| Geniş (A + B, DFDC 2 parça) | 97 GB | 53 GB | **~150 GB** |
 
 ### 3.2. Veri Bölümleme
 
 - **Eğitim:** %70 (yalnızca FF++ c23 + ASVspoof 2019 LA)
 - **Doğrulama (validation):** %15
 - **Test (in-dataset):** %15
-- **Cross-dataset test:** Celeb-DF v2 ve DFDC preview eğitime hiç dahil edilmez; yalnızca son değerlendirmede kullanılır.
+- **Cross-dataset test:** Celeb-DF v2 ve DFDC parçaları eğitime hiç dahil edilmez; yalnızca son değerlendirmede kullanılır.
 
 ### 3.3. Ön İşleme Pipeline'ı
 
@@ -139,7 +140,7 @@ Veri setleri kullanım önceliğine göre üç gruba ayrılmıştır:
 
 ### 3.4. Veri Kullanımı ve Etik
 
-- Tüm veri setleri akademik kullanım anlaşması altında temin edilmiştir.
+- Veri setleri akademik/araştırma amaçlı kullanım için temin edilmiştir; proje ders ödevi kapsamında olup yayınlanmayacaktır.
 - Hiçbir kişisel/biyometrik veri yerel olarak yedeklenmez veya 3. tarafla paylaşılmaz.
 - Üretilen modeller saldırı amaçlı (yeni deepfake üretimi) değil, **savunma amaçlı (tespit)** kullanım için tasarlanmıştır.
 
