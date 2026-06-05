@@ -1,0 +1,22 @@
+{
+  "checkpoint": "C:\\Users\\user\\deepfake-detection\\checkpoints\\best_spatial.pt",
+  "module": "spatial",
+  "split": "cross_celebdf",
+  "num_samples": 6528,
+  "num_misclassified": 1442,
+  "metrics": {
+    "loss": 0.5523609335844716,
+    "accuracy": 0.7791053921568627,
+    "precision": 0.9446916719643992,
+    "recall": 0.7905657031388544,
+    "f1": 0.8607839351226105,
+    "auc_roc": 0.8393376036365732,
+    "eer": 0.24606623365198696,
+    "eer_threshold": 0.62646484375
+  },
+  "metrics_at_eer_threshold": {
+    "threshold": 0.62646484375,
+    "accuracy": 0.7541360294117647,
+    "f1": 0.8412619918900208
+  }
+}

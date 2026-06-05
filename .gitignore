@@ -1,0 +1,22 @@
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+data/raw/
+data/processed/
+checkpoints/*.pt
+checkpoints/*.pth
+.env
+*.egg-info/
+dist/
+build/
+
+# Run/build logs (her seyi root'ta cope etme)
+*.log
+*.err
+*.pid
+.build_pdf.py
+test_audio.wav
+
+# Vetlenmemis literatur taramasi (rapora dahil edilmedi)
+docs/literature_review.*

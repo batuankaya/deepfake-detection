@@ -1,0 +1,5259 @@
+[
+  {
+    "video_id": "original_006",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.016813261434435844,
+    "p_frequency": 0.2079806136233466
+  },
+  {
+    "video_id": "original_025",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.07981736212968826,
+    "p_frequency": 0.4908745653927326
+  },
+  {
+    "video_id": "original_027",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.026977408677339554,
+    "p_frequency": 0.7059676122097742
+  },
+  {
+    "video_id": "original_030",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.3649192452430725,
+    "p_frequency": 0.6701331539079547
+  },
+  {
+    "video_id": "original_032",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.9989628791809082,
+    "p_frequency": 0.8705617785453796
+  },
+  {
+    "video_id": "original_044",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.0006844214512966573,
+    "p_frequency": 0.3418823454691016
+  },
+  {
+    "video_id": "original_046",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.0006753973430022597,
+    "p_frequency": 0.009969463331314425
+  },
+  {
+    "video_id": "original_057",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.001200243947096169,
+    "p_frequency": 0.4318268962204456
+  },
+  {
+    "video_id": "original_067",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.0011460671667009592,
+    "p_frequency": 0.40713572775324186
+  },
+  {
+    "video_id": "original_071",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.0016954665770754218,
+    "p_frequency": 0.39702381379902363
+  },
+  {
+    "video_id": "original_073",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.0009060773882083595,
+    "p_frequency": 0.0104838006120796
+  },
+  {
+    "video_id": "original_080",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.03625362366437912,
+    "p_frequency": 0.672834289073944
+  },
+  {
+    "video_id": "original_081",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.0008177863201126456,
+    "p_frequency": 0.01957832896926751
+  },
+  {
+    "video_id": "original_089",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.891015887260437,
+    "p_frequency": 0.2629103640715281
+  },
+  {
+    "video_id": "original_094",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.5674559473991394,
+    "p_frequency": 0.9234651784102123
+  },
+  {
+    "video_id": "original_095",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.06761687248945236,
+    "p_frequency": 0.5272464697559675
+  },
+  {
+    "video_id": "original_099",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.000952339731156826,
+    "p_frequency": 0.04423029408014069
+  },
+  {
+    "video_id": "original_103",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.0014922843547537923,
+    "p_frequency": 0.5844273447990418
+  },
+  {
+    "video_id": "original_104",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.0016658464446663857,
+    "p_frequency": 0.0780535912141204
+  },
+  {
+    "video_id": "original_114",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.001611034502275288,
+    "p_frequency": 0.07699820442746083
+  },
+  {
+    "video_id": "original_127",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.018563678488135338,
+    "p_frequency": 0.9218574941158295
+  },
+  {
+    "video_id": "original_142",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.0030485030729323626,
+    "p_frequency": 0.30850547334800166
+  },
+  {
+    "video_id": "original_146",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.0005616704002022743,
+    "p_frequency": 0.09102355142434439
+  },
+  {
+    "video_id": "original_159",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.0007060482748784125,
+    "p_frequency": 0.04536814581037366
+  },
+  {
+    "video_id": "original_163",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.05236232653260231,
+    "p_frequency": 0.7164238542318344
+  },
+  {
+    "video_id": "original_166",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.0025689671747386456,
+    "p_frequency": 0.27198847600569326
+  },
+  {
+    "video_id": "original_167",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.06330694258213043,
+    "p_frequency": 0.24332824413632526
+  },
+  {
+    "video_id": "original_175",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.0010988210560753942,
+    "p_frequency": 0.31818206192304693
+  },
+  {
+    "video_id": "original_196",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.0012314275372773409,
+    "p_frequency": 0.0372728860238567
+  },
+  {
+    "video_id": "original_203",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.0006328162271529436,
+    "p_frequency": 0.11825454219554861
+  },
+  {
+    "video_id": "original_214",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.03976484015583992,
+    "p_frequency": 0.7257058368374903
+  },
+  {
+    "video_id": "original_216",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.011108538135886192,
+    "p_frequency": 0.2778304163366556
+  },
+  {
+    "video_id": "original_217",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.0037877524737268686,
+    "p_frequency": 0.09675563924247399
+  },
+  {
+    "video_id": "original_220",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.0010674603981897235,
+    "p_frequency": 0.520561612645785
+  },
+  {
+    "video_id": "original_223",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.0005033964989706874,
+    "p_frequency": 0.38248750008642673
+  },
+  {
+    "video_id": "original_224",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.0007757222047075629,
+    "p_frequency": 0.47085985317826273
+  },
+  {
+    "video_id": "original_225",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.027392948046326637,
+    "p_frequency": 0.425451832867804
+  },
+  {
+    "video_id": "original_228",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.0015855032252147794,
+    "p_frequency": 0.36211032172044116
+  },
+  {
+    "video_id": "original_233",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.015888502821326256,
+    "p_frequency": 0.10996590689755976
+  },
+  {
+    "video_id": "original_234",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.0024622653145343065,
+    "p_frequency": 0.7421505520741145
+  },
+  {
+    "video_id": "original_238",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.0004888998810201883,
+    "p_frequency": 0.11277929823845625
+  },
+  {
+    "video_id": "original_250",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.0016054905718192458,
+    "p_frequency": 0.6635754187901814
+  },
+  {
+    "video_id": "original_252",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.0008178471471183002,
+    "p_frequency": 0.5321917484203974
+  },
+  {
+    "video_id": "original_270",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.002372029470279813,
+    "p_frequency": 0.03616002757245532
+  },
+  {
+    "video_id": "original_271",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.0009580476325936615,
+    "p_frequency": 0.37159969275817273
+  },
+  {
+    "video_id": "original_273",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.9861613512039185,
+    "p_frequency": 0.6739517802541907
+  },
+  {
+    "video_id": "original_274",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.002335903700441122,
+    "p_frequency": 0.14164994638413192
+  },
+  {
+    "video_id": "original_276",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.11696764081716537,
+    "p_frequency": 0.31790972913482357
+  },
+  {
+    "video_id": "original_281",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.0014230581000447273,
+    "p_frequency": 0.7009306791282836
+  },
+  {
+    "video_id": "original_284",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.033447347581386566,
+    "p_frequency": 0.8535912066698075
+  },
+  {
+    "video_id": "original_296",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.2429383546113968,
+    "p_frequency": 0.9647975947175708
+  },
+  {
+    "video_id": "original_300",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.013159621506929398,
+    "p_frequency": 0.30988491227229437
+  },
+  {
+    "video_id": "original_322",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.0007279886631295085,
+    "p_frequency": 0.7215498898710523
+  },
+  {
+    "video_id": "original_323",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.006490744184702635,
+    "p_frequency": 0.4712819845726093
+  },
+  {
+    "video_id": "original_332",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.0602291077375412,
+    "p_frequency": 0.1616157330572605
+  },
+  {
+    "video_id": "original_344",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.5213592648506165,
+    "p_frequency": 0.7014169404904048
+  },
+  {
+    "video_id": "original_348",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.6402028799057007,
+    "p_frequency": 0.859963079293569
+  },
+  {
+    "video_id": "original_352",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.0015173403080552816,
+    "p_frequency": 0.3870821937918663
+  },
+  {
+    "video_id": "original_363",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.023936422541737556,
+    "p_frequency": 0.8235166162252426
+  },
+  {
+    "video_id": "original_367",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.0020509837195277214,
+    "p_frequency": 0.7544609179099401
+  },
+  {
+    "video_id": "original_370",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.0003954520507249981,
+    "p_frequency": 0.10646012377131868
+  },
+  {
+    "video_id": "original_373",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.3350149095058441,
+    "p_frequency": 0.2236464931940039
+  },
+  {
+    "video_id": "original_379",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.0008822876261547208,
+    "p_frequency": 0.21760700242442038
+  },
+  {
+    "video_id": "original_387",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.00495191989466548,
+    "p_frequency": 0.725843933224678
+  },
+  {
+    "video_id": "original_388",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.06759655475616455,
+    "p_frequency": 0.6442950715621313
+  },
+  {
+    "video_id": "original_389",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.002591843716800213,
+    "p_frequency": 0.6273579647143682
+  },
+  {
+    "video_id": "original_405",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.9972813129425049,
+    "p_frequency": 0.2755607939014832
+  },
+  {
+    "video_id": "original_410",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.5909551382064819,
+    "p_frequency": 0.8318158601721127
+  },
+  {
+    "video_id": "original_429",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.009203515946865082,
+    "p_frequency": 0.8688123106956482
+  },
+  {
+    "video_id": "original_432",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.0006695628981105983,
+    "p_frequency": 0.14201765693724155
+  },
+  {
+    "video_id": "original_459",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.02108728140592575,
+    "p_frequency": 0.37858371262749035
+  },
+  {
+    "video_id": "original_464",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.7515926957130432,
+    "p_frequency": 0.9142181853453318
+  },
+  {
+    "video_id": "original_469",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.003931303508579731,
+    "p_frequency": 0.13976118647094285
+  },
+  {
+    "video_id": "original_470",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.03383328393101692,
+    "p_frequency": 0.13777127228677272
+  },
+  {
+    "video_id": "original_473",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.0013832662953063846,
+    "p_frequency": 0.6329198740422726
+  },
+  {
+    "video_id": "original_511",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.0006934067932888865,
+    "p_frequency": 0.061288427313168845
+  },
+  {
+    "video_id": "original_517",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.12443859130144119,
+    "p_frequency": 0.45625752240419387
+  },
+  {
+    "video_id": "original_546",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.0017956722294911742,
+    "p_frequency": 0.028622636664658786
+  },
+  {
+    "video_id": "original_549",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.0006133169517852366,
+    "p_frequency": 0.2919250870744387
+  },
+  {
+    "video_id": "original_551",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.002758398884907365,
+    "p_frequency": 0.08177928229173025
+  },
+  {
+    "video_id": "original_558",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.0006342883571051061,
+    "p_frequency": 0.024749985542924454
+  },
+  {
+    "video_id": "original_565",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.060859765857458115,
+    "p_frequency": 0.6713381667931875
+  },
+  {
+    "video_id": "original_570",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.0037786499597132206,
+    "p_frequency": 0.38125525874396166
+  },
+  {
+    "video_id": "original_574",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.27304837107658386,
+    "p_frequency": 0.6718664119640986
+  },
+  {
+    "video_id": "original_580",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.0008613059762865305,
+    "p_frequency": 0.020182455034228042
+  },
+  {
+    "video_id": "original_591",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.0021275633480399847,
+    "p_frequency": 0.05009189747894804
+  },
+  {
+    "video_id": "original_603",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.5975905656814575,
+    "p_frequency": 0.2632504627108574
+  },
+  {
+    "video_id": "original_604",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.0007751339580863714,
+    "p_frequency": 0.4748582092424234
+  },
+  {
+    "video_id": "original_616",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.004394253250211477,
+    "p_frequency": 0.5246923878788948
+  },
+  {
+    "video_id": "original_618",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.0006236167973838747,
+    "p_frequency": 0.4797509163618088
+  },
+  {
+    "video_id": "original_623",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.001184853259474039,
+    "p_frequency": 0.5203925465544065
+  },
+  {
+    "video_id": "original_633",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.0014146617613732815,
+    "p_frequency": 0.8002168287833532
+  },
+  {
+    "video_id": "original_643",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.017936618998646736,
+    "p_frequency": 0.46244564533233645
+  },
+  {
+    "video_id": "original_650",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.0008985509048216045,
+    "p_frequency": 0.20746009821693104
+  },
+  {
+    "video_id": "original_654",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.04543903470039368,
+    "p_frequency": 0.29942163576682407
+  },
+  {
+    "video_id": "original_655",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.002807926619425416,
+    "p_frequency": 0.7821781789263089
+  },
+  {
+    "video_id": "original_658",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.9994447827339172,
+    "p_frequency": 0.5512227942546208
+  },
+  {
+    "video_id": "original_663",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.001156936283223331,
+    "p_frequency": 0.17167764032880464
+  },
+  {
+    "video_id": "original_665",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.0017365737585350871,
+    "p_frequency": 0.2387195793842828
+  },
+  {
+    "video_id": "original_671",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.00057745206868276,
+    "p_frequency": 0.06283573832605845
+  },
+  {
+    "video_id": "original_677",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.0006257753702811897,
+    "p_frequency": 0.7764900092567716
+  },
+  {
+    "video_id": "original_686",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.0015043556923046708,
+    "p_frequency": 0.8401453988305454
+  },
+  {
+    "video_id": "original_692",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.000741952215321362,
+    "p_frequency": 0.30735101252794267
+  },
+  {
+    "video_id": "original_699",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.0006649002316407859,
+    "p_frequency": 0.5591751724481583
+  },
+  {
+    "video_id": "original_701",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.001118526211939752,
+    "p_frequency": 0.1805135658769696
+  },
+  {
+    "video_id": "original_704",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.01009588036686182,
+    "p_frequency": 0.39925639058152834
+  },
+  {
+    "video_id": "original_714",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.0005080635310150683,
+    "p_frequency": 0.08513705337730547
+  },
+  {
+    "video_id": "original_718",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.05900770425796509,
+    "p_frequency": 0.7066989103953044
+  },
+  {
+    "video_id": "original_721",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.0013664711732417345,
+    "p_frequency": 0.061060640347811085
+  },
+  {
+    "video_id": "original_733",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.0005799324717372656,
+    "p_frequency": 0.5987643703818322
+  },
+  {
+    "video_id": "original_735",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.0007237427635118365,
+    "p_frequency": 0.5050751628975073
+  },
+  {
+    "video_id": "original_746",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.0008698762976564467,
+    "p_frequency": 0.08868341517324249
+  },
+  {
+    "video_id": "original_747",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.0008613232057541609,
+    "p_frequency": 0.3680234983563423
+  },
+  {
+    "video_id": "original_754",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.0004846263909712434,
+    "p_frequency": 0.28295216267859497
+  },
+  {
+    "video_id": "original_758",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.0013509857235476375,
+    "p_frequency": 0.44545495951617203
+  },
+  {
+    "video_id": "original_759",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.6716184020042419,
+    "p_frequency": 0.5935324584615642
+  },
+  {
+    "video_id": "original_762",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.0006385986343957484,
+    "p_frequency": 0.05223249563326438
+  },
+  {
+    "video_id": "original_777",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.13294227421283722,
+    "p_frequency": 0.5710884542627768
+  },
+  {
+    "video_id": "original_781",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.0006677419878542423,
+    "p_frequency": 0.22206149927030008
+  },
+  {
+    "video_id": "original_786",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.9994524121284485,
+    "p_frequency": 0.5360819287598133
+  },
+  {
+    "video_id": "original_791",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.0006511173560284078,
+    "p_frequency": 0.4496296480621981
+  },
+  {
+    "video_id": "original_794",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.0006286200950853527,
+    "p_frequency": 0.030409306349853674
+  },
+  {
+    "video_id": "original_824",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.002431407803669572,
+    "p_frequency": 0.117125848447904
+  },
+  {
+    "video_id": "original_825",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.00045158216380514205,
+    "p_frequency": 0.1900568622474869
+  },
+  {
+    "video_id": "original_826",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.008351883850991726,
+    "p_frequency": 0.5145222708582878
+  },
+  {
+    "video_id": "original_828",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.0008144582388922572,
+    "p_frequency": 0.04411243682692724
+  },
+  {
+    "video_id": "original_841",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.7138388752937317,
+    "p_frequency": 0.3782228278617064
+  },
+  {
+    "video_id": "original_849",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.0005013207555748522,
+    "p_frequency": 0.003512412262218142
+  },
+  {
+    "video_id": "original_854",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.0006880963337607682,
+    "p_frequency": 0.07517999947071076
+  },
+  {
+    "video_id": "original_863",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.009538905695080757,
+    "p_frequency": 0.6913185308376948
+  },
+  {
+    "video_id": "original_867",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.0010214077774435282,
+    "p_frequency": 0.14448514017276465
+  },
+  {
+    "video_id": "original_875",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.0006314973579719663,
+    "p_frequency": 0.6213275805629533
+  },
+  {
+    "video_id": "original_882",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.0009251988958567381,
+    "p_frequency": 0.6150228306651115
+  },
+  {
+    "video_id": "original_887",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.010093516670167446,
+    "p_frequency": 0.7035692426665076
+  },
+  {
+    "video_id": "original_890",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.0008540477720089257,
+    "p_frequency": 0.3238857107479935
+  },
+  {
+    "video_id": "original_906",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.004717000760138035,
+    "p_frequency": 0.334694628818677
+  },
+  {
+    "video_id": "original_907",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.34207525849342346,
+    "p_frequency": 0.05990419716884692
+  },
+  {
+    "video_id": "original_913",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.018293088302016258,
+    "p_frequency": 0.8841291725635528
+  },
+  {
+    "video_id": "original_947",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.0010479839984327555,
+    "p_frequency": 0.05271534005490442
+  },
+  {
+    "video_id": "original_954",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.000597264792304486,
+    "p_frequency": 0.12690185140818358
+  },
+  {
+    "video_id": "original_964",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.0018174241995438933,
+    "p_frequency": 0.11330771107847491
+  },
+  {
+    "video_id": "original_970",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.0004498616617638618,
+    "p_frequency": 0.08868357185274363
+  },
+  {
+    "video_id": "original_974",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.0005278317257761955,
+    "p_frequency": 0.07058620627072675
+  },
+  {
+    "video_id": "original_978",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.0004903220105916262,
+    "p_frequency": 0.17979056447123487
+  },
+  {
+    "video_id": "original_982",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.000649783993139863,
+    "p_frequency": 0.13039984963834286
+  },
+  {
+    "video_id": "original_983",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.0423797108232975,
+    "p_frequency": 0.6783723006645839
+  },
+  {
+    "video_id": "original_986",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.0008396998746320605,
+    "p_frequency": 0.14314787797629833
+  },
+  {
+    "video_id": "original_990",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.0008065200527198613,
+    "p_frequency": 0.18995590722904757
+  },
+  {
+    "video_id": "original_992",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.0021554394625127316,
+    "p_frequency": 0.3100659524401029
+  },
+  {
+    "video_id": "original_994",
+    "label": 0,
+    "type": "real",
+    "p_spatial": 0.0005536071839742362,
+    "p_frequency": 0.029577030257011454
+  },
+  {
+    "video_id": "Deepfakes_006_002",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.9980669617652893,
+    "p_frequency": 0.6675938460088912
+  },
+  {
+    "video_id": "Deepfakes_025_067",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.999861478805542,
+    "p_frequency": 0.7048749218384425
+  },
+  {
+    "video_id": "Deepfakes_027_009",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.9998918771743774,
+    "p_frequency": 0.9999916837328956
+  },
+  {
+    "video_id": "Deepfakes_030_193",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.9995197057723999,
+    "p_frequency": 0.9955271929502487
+  },
+  {
+    "video_id": "Deepfakes_032_944",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.999945878982544,
+    "p_frequency": 0.9992600707780748
+  },
+  {
+    "video_id": "Deepfakes_044_945",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.9999169111251831,
+    "p_frequency": 0.9569161560224451
+  },
+  {
+    "video_id": "Deepfakes_046_904",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.9998050332069397,
+    "p_frequency": 0.999951591094335
+  },
+  {
+    "video_id": "Deepfakes_057_070",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.9998944997787476,
+    "p_frequency": 0.9977509617805481
+  },
+  {
+    "video_id": "Deepfakes_067_025",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.9999222755432129,
+    "p_frequency": 0.9974887231985728
+  },
+  {
+    "video_id": "Deepfakes_071_054",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.8143196702003479,
+    "p_frequency": 0.8255486741662026
+  },
+  {
+    "video_id": "Deepfakes_073_024",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.9993764758110046,
+    "p_frequency": 0.8261624902486802
+  },
+  {
+    "video_id": "Deepfakes_080_061",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.9426904320716858,
+    "p_frequency": 0.7932484279076258
+  },
+  {
+    "video_id": "Deepfakes_081_087",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.40969008207321167,
+    "p_frequency": 0.9995789885520935
+  },
+  {
+    "video_id": "Deepfakes_089_065",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.9999217987060547,
+    "p_frequency": 0.9615453759829203
+  },
+  {
+    "video_id": "Deepfakes_094_111",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.9999195337295532,
+    "p_frequency": 0.9932503998279572
+  },
+  {
+    "video_id": "Deepfakes_095_053",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.9998038411140442,
+    "p_frequency": 0.6348635892073313
+  },
+  {
+    "video_id": "Deepfakes_099_295",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.9999213218688965,
+    "p_frequency": 0.9988273918628693
+  },
+  {
+    "video_id": "Deepfakes_103_082",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.23227868974208832,
+    "p_frequency": 0.9727417846520742
+  },
+  {
+    "video_id": "Deepfakes_104_126",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.9998492002487183,
+    "p_frequency": 0.1523821670562029
+  },
+  {
+    "video_id": "Deepfakes_114_102",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.9999072551727295,
+    "p_frequency": 0.5132732113202413
+  },
+  {
+    "video_id": "Deepfakes_127_129",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.8954511880874634,
+    "p_frequency": 0.922856463988622
+  },
+  {
+    "video_id": "Deepfakes_142_138",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.9970390796661377,
+    "p_frequency": 0.9770565390586853
+  },
+  {
+    "video_id": "Deepfakes_146_256",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.9998644590377808,
+    "p_frequency": 0.9972518801689148
+  },
+  {
+    "video_id": "Deepfakes_159_175",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.9999008178710938,
+    "p_frequency": 0.8750274117503848
+  },
+  {
+    "video_id": "Deepfakes_163_031",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.9997158646583557,
+    "p_frequency": 0.9496080534798759
+  },
+  {
+    "video_id": "Deepfakes_166_167",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.9907761216163635,
+    "p_frequency": 0.3454705622047186
+  },
+  {
+    "video_id": "Deepfakes_167_166",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.9999139308929443,
+    "p_frequency": 0.9987066470343491
+  },
+  {
+    "video_id": "Deepfakes_175_159",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.9982829093933105,
+    "p_frequency": 0.45022678896784785
+  },
+  {
+    "video_id": "Deepfakes_196_310",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.9999421834945679,
+    "p_frequency": 0.7602706213792165
+  },
+  {
+    "video_id": "Deepfakes_203_201",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.999818742275238,
+    "p_frequency": 0.9732405324776967
+  },
+  {
+    "video_id": "Deepfakes_214_255",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.9999043941497803,
+    "p_frequency": 0.9977323353290558
+  },
+  {
+    "video_id": "Deepfakes_216_164",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.9998784065246582,
+    "p_frequency": 0.9800560553868611
+  },
+  {
+    "video_id": "Deepfakes_217_117",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.9978452920913696,
+    "p_frequency": 0.8728301245719194
+  },
+  {
+    "video_id": "Deepfakes_220_219",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.9996091723442078,
+    "p_frequency": 0.8774983286857605
+  },
+  {
+    "video_id": "Deepfakes_223_586",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.9998726844787598,
+    "p_frequency": 0.9870860973993937
+  },
+  {
+    "video_id": "Deepfakes_224_197",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.6017389297485352,
+    "p_frequency": 0.7713334167997042
+  },
+  {
+    "video_id": "Deepfakes_225_151",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.9971185922622681,
+    "p_frequency": 0.5875249859832582
+  },
+  {
+    "video_id": "Deepfakes_228_289",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.999845027923584,
+    "p_frequency": 0.9486779749393464
+  },
+  {
+    "video_id": "Deepfakes_233_995",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.9998910427093506,
+    "p_frequency": 0.8709378082770854
+  },
+  {
+    "video_id": "Deepfakes_234_187",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.9989181756973267,
+    "p_frequency": 0.9726088503996532
+  },
+  {
+    "video_id": "Deepfakes_238_282",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.9999270439147949,
+    "p_frequency": 0.8265660405158997
+  },
+  {
+    "video_id": "Deepfakes_250_461",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.9999241828918457,
+    "p_frequency": 0.9972112913926442
+  },
+  {
+    "video_id": "Deepfakes_252_266",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.9997653365135193,
+    "p_frequency": 0.9182401140530904
+  },
+  {
+    "video_id": "Deepfakes_270_297",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.9999302625656128,
+    "p_frequency": 0.9912172785172095
+  },
+  {
+    "video_id": "Deepfakes_271_264",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.9989746809005737,
+    "p_frequency": 0.972894420226415
+  },
+  {
+    "video_id": "Deepfakes_273_807",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.9999322891235352,
+    "p_frequency": 0.9827534312551672
+  },
+  {
+    "video_id": "Deepfakes_274_412",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.9995768666267395,
+    "p_frequency": 0.9571371257305146
+  },
+  {
+    "video_id": "Deepfakes_276_185",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.9862534403800964,
+    "p_frequency": 0.3056933491357735
+  },
+  {
+    "video_id": "Deepfakes_281_474",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.9999309778213501,
+    "p_frequency": 0.9894530148733229
+  },
+  {
+    "video_id": "Deepfakes_284_263",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.9994068145751953,
+    "p_frequency": 0.9864637692769368
+  },
+  {
+    "video_id": "Deepfakes_296_293",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.999930739402771,
+    "p_frequency": 0.9997696174042565
+  },
+  {
+    "video_id": "Deepfakes_300_304",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.5519477128982544,
+    "p_frequency": 0.8273118038972219
+  },
+  {
+    "video_id": "Deepfakes_322_315",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.9999487400054932,
+    "p_frequency": 0.9997982950437636
+  },
+  {
+    "video_id": "Deepfakes_323_302",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.9999345541000366,
+    "p_frequency": 0.998147573073705
+  },
+  {
+    "video_id": "Deepfakes_332_051",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.9997778534889221,
+    "p_frequency": 0.7836206207672755
+  },
+  {
+    "video_id": "Deepfakes_344_020",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.999729573726654,
+    "p_frequency": 0.9997993806997935
+  },
+  {
+    "video_id": "Deepfakes_348_202",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.9990266561508179,
+    "p_frequency": 0.978931987285614
+  },
+  {
+    "video_id": "Deepfakes_352_319",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.9626716375350952,
+    "p_frequency": 0.2427633305390676
+  },
+  {
+    "video_id": "Deepfakes_363_343",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.9999222755432129,
+    "p_frequency": 0.9807106773058574
+  },
+  {
+    "video_id": "Deepfakes_367_371",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.9998414516448975,
+    "p_frequency": 0.9895509799321492
+  },
+  {
+    "video_id": "Deepfakes_370_483",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.9997237324714661,
+    "p_frequency": 0.9644297361373901
+  },
+  {
+    "video_id": "Deepfakes_373_394",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.9999512434005737,
+    "p_frequency": 0.893016767501831
+  },
+  {
+    "video_id": "Deepfakes_379_158",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.9994437098503113,
+    "p_frequency": 0.9833817611569944
+  },
+  {
+    "video_id": "Deepfakes_387_311",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.9375484585762024,
+    "p_frequency": 0.9432774047056834
+  },
+  {
+    "video_id": "Deepfakes_388_308",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.999817430973053,
+    "p_frequency": 0.8738427778085073
+  },
+  {
+    "video_id": "Deepfakes_389_480",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.9999450445175171,
+    "p_frequency": 0.9997710320684645
+  },
+  {
+    "video_id": "Deepfakes_405_393",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.9999047517776489,
+    "p_frequency": 0.716510093708833
+  },
+  {
+    "video_id": "Deepfakes_410_411",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.9999135732650757,
+    "p_frequency": 0.9987730145454407
+  },
+  {
+    "video_id": "Deepfakes_429_404",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.9999284744262695,
+    "p_frequency": 0.9999379356702168
+  },
+  {
+    "video_id": "Deepfakes_432_357",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.9998679161071777,
+    "p_frequency": 0.9335542172193527
+  },
+  {
+    "video_id": "Deepfakes_459_430",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.9998438358306885,
+    "p_frequency": 0.9518841564655304
+  },
+  {
+    "video_id": "Deepfakes_464_463",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.9974669218063354,
+    "p_frequency": 0.8257874096433322
+  },
+  {
+    "video_id": "Deepfakes_469_481",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.9890755414962769,
+    "p_frequency": 0.14658527807997807
+  },
+  {
+    "video_id": "Deepfakes_470_468",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.9995860457420349,
+    "p_frequency": 0.78746198117733
+  },
+  {
+    "video_id": "Deepfakes_473_366",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.9999370574951172,
+    "p_frequency": 0.9673576811949413
+  },
+  {
+    "video_id": "Deepfakes_511_472",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.99982088804245,
+    "p_frequency": 0.9999864141146342
+  },
+  {
+    "video_id": "Deepfakes_517_521",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.21365872025489807,
+    "p_frequency": 0.9998482775688171
+  },
+  {
+    "video_id": "Deepfakes_546_621",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.9997069239616394,
+    "p_frequency": 0.8826292296250661
+  },
+  {
+    "video_id": "Deepfakes_549_531",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.9999351501464844,
+    "p_frequency": 0.9999793529510498
+  },
+  {
+    "video_id": "Deepfakes_551_631",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.9998471736907959,
+    "p_frequency": 0.9894464254379273
+  },
+  {
+    "video_id": "Deepfakes_558_583",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.9999518394470215,
+    "p_frequency": 0.9317514300346375
+  },
+  {
+    "video_id": "Deepfakes_565_589",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.999915599822998,
+    "p_frequency": 0.9348545134067535
+  },
+  {
+    "video_id": "Deepfakes_570_624",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.9995080232620239,
+    "p_frequency": 0.6687733774383863
+  },
+  {
+    "video_id": "Deepfakes_574_547",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.9999159574508667,
+    "p_frequency": 0.9252896924813588
+  },
+  {
+    "video_id": "Deepfakes_580_524",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.9989656209945679,
+    "p_frequency": 0.8551445156335831
+  },
+  {
+    "video_id": "Deepfakes_591_605",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.9993233680725098,
+    "p_frequency": 0.8524181673924128
+  },
+  {
+    "video_id": "Deepfakes_603_575",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.9999488592147827,
+    "p_frequency": 0.9477233624458313
+  },
+  {
+    "video_id": "Deepfakes_604_703",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.9998960494995117,
+    "p_frequency": 0.9889411608378093
+  },
+  {
+    "video_id": "Deepfakes_616_614",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.9853701591491699,
+    "p_frequency": 0.6111193428436915
+  },
+  {
+    "video_id": "Deepfakes_618_629",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.9999463558197021,
+    "p_frequency": 0.9999935587247213
+  },
+  {
+    "video_id": "Deepfakes_623_630",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.9998971223831177,
+    "p_frequency": 0.9994843661785126
+  },
+  {
+    "video_id": "Deepfakes_633_529",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.9999290704727173,
+    "p_frequency": 0.993046377102534
+  },
+  {
+    "video_id": "Deepfakes_643_646",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.9999210834503174,
+    "p_frequency": 0.961650869846344
+  },
+  {
+    "video_id": "Deepfakes_650_625",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.9999126195907593,
+    "p_frequency": 0.9855038026968638
+  },
+  {
+    "video_id": "Deepfakes_654_648",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.9999330043792725,
+    "p_frequency": 0.9565961241722107
+  },
+  {
+    "video_id": "Deepfakes_655_444",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.9996210336685181,
+    "p_frequency": 0.9954167445500691
+  },
+  {
+    "video_id": "Deepfakes_658_627",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.9999009370803833,
+    "p_frequency": 0.9785458306471507
+  },
+  {
+    "video_id": "Deepfakes_663_231",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.9999392032623291,
+    "p_frequency": 0.9660981761084663
+  },
+  {
+    "video_id": "Deepfakes_665_679",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.9803733825683594,
+    "p_frequency": 0.8929434882269965
+  },
+  {
+    "video_id": "Deepfakes_671_677",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.9999290704727173,
+    "p_frequency": 0.9999885714572408
+  },
+  {
+    "video_id": "Deepfakes_677_671",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.9990045428276062,
+    "p_frequency": 0.9984855027425856
+  },
+  {
+    "video_id": "Deepfakes_686_696",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.999803364276886,
+    "p_frequency": 0.6567163035787386
+  },
+  {
+    "video_id": "Deepfakes_692_610",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.9994310736656189,
+    "p_frequency": 0.5886232336362203
+  },
+  {
+    "video_id": "Deepfakes_699_734",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.9999309778213501,
+    "p_frequency": 0.9986396749814351
+  },
+  {
+    "video_id": "Deepfakes_701_579",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.9961658716201782,
+    "p_frequency": 0.8435918346599296
+  },
+  {
+    "video_id": "Deepfakes_704_723",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.9981669187545776,
+    "p_frequency": 0.9237698753674825
+  },
+  {
+    "video_id": "Deepfakes_714_842",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.9999016523361206,
+    "p_frequency": 0.9737542072931925
+  },
+  {
+    "video_id": "Deepfakes_718_972",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.34057748317718506,
+    "p_frequency": 0.9385190864404043
+  },
+  {
+    "video_id": "Deepfakes_721_715",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.9999035596847534,
+    "p_frequency": 0.9991676767667135
+  },
+  {
+    "video_id": "Deepfakes_733_935",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.9999380111694336,
+    "p_frequency": 0.998613840341568
+  },
+  {
+    "video_id": "Deepfakes_735_774",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.9998995065689087,
+    "p_frequency": 0.9999973177909851
+  },
+  {
+    "video_id": "Deepfakes_746_571",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.9999494552612305,
+    "p_frequency": 0.9755703528722127
+  },
+  {
+    "video_id": "Deepfakes_747_854",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.0013320727739483118,
+    "p_frequency": 0.9990110476811727
+  },
+  {
+    "video_id": "Deepfakes_754_758",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.9998975992202759,
+    "p_frequency": 0.9999929710670754
+  },
+  {
+    "video_id": "Deepfakes_758_754",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.6235743761062622,
+    "p_frequency": 0.9889197261245163
+  },
+  {
+    "video_id": "Deepfakes_759_755",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.999665379524231,
+    "p_frequency": 0.49669278130449096
+  },
+  {
+    "video_id": "Deepfakes_762_832",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.9987764954566956,
+    "p_frequency": 0.6774305554727713
+  },
+  {
+    "video_id": "Deepfakes_777_745",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.999833345413208,
+    "p_frequency": 0.9467559456825256
+  },
+  {
+    "video_id": "Deepfakes_781_806",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.9999252557754517,
+    "p_frequency": 0.9825066725413004
+  },
+  {
+    "video_id": "Deepfakes_786_819",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.9999498128890991,
+    "p_frequency": 0.9999986688296
+  },
+  {
+    "video_id": "Deepfakes_791_770",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.805516242980957,
+    "p_frequency": 0.5338935461705145
+  },
+  {
+    "video_id": "Deepfakes_794_779",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.999887228012085,
+    "p_frequency": 0.9907295266787212
+  },
+  {
+    "video_id": "Deepfakes_824_419",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.21581126749515533,
+    "p_frequency": 0.5825246080756188
+  },
+  {
+    "video_id": "Deepfakes_825_074",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.9999399185180664,
+    "p_frequency": 0.9986857950687409
+  },
+  {
+    "video_id": "Deepfakes_826_833",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.7127364277839661,
+    "p_frequency": 0.5234247744083405
+  },
+  {
+    "video_id": "Deepfakes_828_830",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.9999271631240845,
+    "p_frequency": 0.3855175502874233
+  },
+  {
+    "video_id": "Deepfakes_841_639",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.9999457597732544,
+    "p_frequency": 0.9838855644067128
+  },
+  {
+    "video_id": "Deepfakes_849_771",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.9998148083686829,
+    "p_frequency": 0.9601541647204647
+  },
+  {
+    "video_id": "Deepfakes_854_747",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.999943733215332,
+    "p_frequency": 0.9791690230369567
+  },
+  {
+    "video_id": "Deepfakes_863_853",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.9999370574951172,
+    "p_frequency": 0.9896660447120667
+  },
+  {
+    "video_id": "Deepfakes_867_765",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.9998621940612793,
+    "p_frequency": 0.6645303646723429
+  },
+  {
+    "video_id": "Deepfakes_875_979",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.9998807907104492,
+    "p_frequency": 0.999294780451676
+  },
+  {
+    "video_id": "Deepfakes_882_952",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.9998134970664978,
+    "p_frequency": 0.9988632824109949
+  },
+  {
+    "video_id": "Deepfakes_887_275",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.9999301433563232,
+    "p_frequency": 0.9977987860811168
+  },
+  {
+    "video_id": "Deepfakes_890_837",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.9997072815895081,
+    "p_frequency": 0.9695920685063237
+  },
+  {
+    "video_id": "Deepfakes_906_847",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.9998674392700195,
+    "p_frequency": 0.9999625705755674
+  },
+  {
+    "video_id": "Deepfakes_907_795",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.9999113082885742,
+    "p_frequency": 0.9980309665203094
+  },
+  {
+    "video_id": "Deepfakes_913_893",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.999703586101532,
+    "p_frequency": 0.9874894122282664
+  },
+  {
+    "video_id": "Deepfakes_947_951",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.9999058246612549,
+    "p_frequency": 0.99533771276474
+  },
+  {
+    "video_id": "Deepfakes_954_976",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.999815046787262,
+    "p_frequency": 0.9578744113445282
+  },
+  {
+    "video_id": "Deepfakes_964_174",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.3337843716144562,
+    "p_frequency": 0.6970399413257837
+  },
+  {
+    "video_id": "Deepfakes_970_973",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.9998794794082642,
+    "p_frequency": 0.9133753071228663
+  },
+  {
+    "video_id": "Deepfakes_974_953",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.9998152852058411,
+    "p_frequency": 0.9720866591842087
+  },
+  {
+    "video_id": "Deepfakes_978_975",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.9998588562011719,
+    "p_frequency": 0.976347279548645
+  },
+  {
+    "video_id": "Deepfakes_982_004",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.9989789724349976,
+    "p_frequency": 0.29734508618712424
+  },
+  {
+    "video_id": "Deepfakes_983_113",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.8052793145179749,
+    "p_frequency": 0.8486135145028432
+  },
+  {
+    "video_id": "Deepfakes_986_994",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.9999450445175171,
+    "p_frequency": 0.9213419477144877
+  },
+  {
+    "video_id": "Deepfakes_990_008",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.9969965219497681,
+    "p_frequency": 0.528901685315829
+  },
+  {
+    "video_id": "Deepfakes_992_980",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.9998854398727417,
+    "p_frequency": 0.9393211106459299
+  },
+  {
+    "video_id": "Deepfakes_994_986",
+    "label": 1,
+    "type": "Deepfakes",
+    "p_spatial": 0.9997159838676453,
+    "p_frequency": 0.4102050668939396
+  },
+  {
+    "video_id": "Face2Face_006_002",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.9999150037765503,
+    "p_frequency": 0.7654230862855911
+  },
+  {
+    "video_id": "Face2Face_025_067",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.9999583959579468,
+    "p_frequency": 0.9993223746617635
+  },
+  {
+    "video_id": "Face2Face_027_009",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.9999055862426758,
+    "p_frequency": 0.9774973074595134
+  },
+  {
+    "video_id": "Face2Face_030_193",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.9998905658721924,
+    "p_frequency": 0.9996063899993897
+  },
+  {
+    "video_id": "Face2Face_032_944",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.9999624490737915,
+    "p_frequency": 0.9994661548863286
+  },
+  {
+    "video_id": "Face2Face_044_945",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.9999322891235352,
+    "p_frequency": 0.8420460840066274
+  },
+  {
+    "video_id": "Face2Face_046_904",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.9999536275863647,
+    "p_frequency": 0.955837145447731
+  },
+  {
+    "video_id": "Face2Face_057_070",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.9996768236160278,
+    "p_frequency": 0.9470609625180563
+  },
+  {
+    "video_id": "Face2Face_067_025",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.9989823698997498,
+    "p_frequency": 0.8529090801874797
+  },
+  {
+    "video_id": "Face2Face_071_054",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.9999388456344604,
+    "p_frequency": 0.853507685661316
+  },
+  {
+    "video_id": "Face2Face_073_024",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.6261903643608093,
+    "p_frequency": 0.3023215957845633
+  },
+  {
+    "video_id": "Face2Face_080_061",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.9999426603317261,
+    "p_frequency": 0.9732151319240702
+  },
+  {
+    "video_id": "Face2Face_081_087",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.9995323419570923,
+    "p_frequency": 0.8806107892439916
+  },
+  {
+    "video_id": "Face2Face_089_065",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.9999600648880005,
+    "p_frequency": 0.9663596908251445
+  },
+  {
+    "video_id": "Face2Face_094_111",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.9999622106552124,
+    "p_frequency": 0.9998673975467682
+  },
+  {
+    "video_id": "Face2Face_095_053",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.9999562501907349,
+    "p_frequency": 0.9175508320331573
+  },
+  {
+    "video_id": "Face2Face_099_295",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.9997671246528625,
+    "p_frequency": 0.9480219105879466
+  },
+  {
+    "video_id": "Face2Face_103_082",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.9996557235717773,
+    "p_frequency": 0.9885150856441922
+  },
+  {
+    "video_id": "Face2Face_104_126",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.9999204874038696,
+    "p_frequency": 0.9977597919377413
+  },
+  {
+    "video_id": "Face2Face_114_102",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.9999531507492065,
+    "p_frequency": 0.9893382608890533
+  },
+  {
+    "video_id": "Face2Face_127_129",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.9999498128890991,
+    "p_frequency": 0.9996749677441337
+  },
+  {
+    "video_id": "Face2Face_142_138",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.9999370574951172,
+    "p_frequency": 0.9776099741458892
+  },
+  {
+    "video_id": "Face2Face_146_256",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.9997860789299011,
+    "p_frequency": 0.7463212544719379
+  },
+  {
+    "video_id": "Face2Face_159_175",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.9993014335632324,
+    "p_frequency": 0.8879215955734253
+  },
+  {
+    "video_id": "Face2Face_163_031",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.9999610185623169,
+    "p_frequency": 0.988004736105601
+  },
+  {
+    "video_id": "Face2Face_166_167",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.9999370574951172,
+    "p_frequency": 0.8771042474384966
+  },
+  {
+    "video_id": "Face2Face_167_166",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.9999419450759888,
+    "p_frequency": 0.9032539308071137
+  },
+  {
+    "video_id": "Face2Face_175_159",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.9999420642852783,
+    "p_frequency": 0.876504442521504
+  },
+  {
+    "video_id": "Face2Face_196_310",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.8457683324813843,
+    "p_frequency": 0.5531167427698771
+  },
+  {
+    "video_id": "Face2Face_203_201",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.9999343156814575,
+    "p_frequency": 0.9993369897206624
+  },
+  {
+    "video_id": "Face2Face_214_255",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.9999486207962036,
+    "p_frequency": 0.9976118087768555
+  },
+  {
+    "video_id": "Face2Face_216_164",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.9995582699775696,
+    "p_frequency": 0.677236732840538
+  },
+  {
+    "video_id": "Face2Face_217_117",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.9997226595878601,
+    "p_frequency": 0.8825052676567187
+  },
+  {
+    "video_id": "Face2Face_220_219",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.9999537467956543,
+    "p_frequency": 0.996280175447464
+  },
+  {
+    "video_id": "Face2Face_223_586",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.9854078888893127,
+    "p_frequency": 0.9993361784861639
+  },
+  {
+    "video_id": "Face2Face_224_197",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.999848484992981,
+    "p_frequency": 0.9914855857690176
+  },
+  {
+    "video_id": "Face2Face_225_151",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.9980903267860413,
+    "p_frequency": 0.7302661662300428
+  },
+  {
+    "video_id": "Face2Face_228_289",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.9992994070053101,
+    "p_frequency": 0.7268282254536946
+  },
+  {
+    "video_id": "Face2Face_233_995",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.29285258054733276,
+    "p_frequency": 0.21971425991505383
+  },
+  {
+    "video_id": "Face2Face_234_187",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.9999426603317261,
+    "p_frequency": 0.9513209521770477
+  },
+  {
+    "video_id": "Face2Face_238_282",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.9999150037765503,
+    "p_frequency": 0.7202485914031664
+  },
+  {
+    "video_id": "Face2Face_250_461",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.9999586343765259,
+    "p_frequency": 0.9993337909380595
+  },
+  {
+    "video_id": "Face2Face_252_266",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.9999557733535767,
+    "p_frequency": 0.9855651021003723
+  },
+  {
+    "video_id": "Face2Face_270_297",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.999933123588562,
+    "p_frequency": 0.6223388545215129
+  },
+  {
+    "video_id": "Face2Face_271_264",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.9999343156814575,
+    "p_frequency": 0.9902125219504039
+  },
+  {
+    "video_id": "Face2Face_273_807",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.9999445676803589,
+    "p_frequency": 0.9254268089930217
+  },
+  {
+    "video_id": "Face2Face_274_412",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.9999483823776245,
+    "p_frequency": 0.9362059156099956
+  },
+  {
+    "video_id": "Face2Face_276_185",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.99994957447052,
+    "p_frequency": 0.993632972240448
+  },
+  {
+    "video_id": "Face2Face_281_474",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.9998229146003723,
+    "p_frequency": 0.9822169154882431
+  },
+  {
+    "video_id": "Face2Face_284_263",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.9999579191207886,
+    "p_frequency": 0.9956424027681351
+  },
+  {
+    "video_id": "Face2Face_296_293",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.9999498128890991,
+    "p_frequency": 0.9999297618865967
+  },
+  {
+    "video_id": "Face2Face_300_304",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.9999501705169678,
+    "p_frequency": 0.9084997355937958
+  },
+  {
+    "video_id": "Face2Face_322_315",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.9995577931404114,
+    "p_frequency": 0.9680263343311492
+  },
+  {
+    "video_id": "Face2Face_323_302",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.9998787641525269,
+    "p_frequency": 0.9712455133597057
+  },
+  {
+    "video_id": "Face2Face_332_051",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.9999252557754517,
+    "p_frequency": 0.8978584160407385
+  },
+  {
+    "video_id": "Face2Face_344_020",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.9998717308044434,
+    "p_frequency": 0.7459235330422719
+  },
+  {
+    "video_id": "Face2Face_348_202",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.9999328851699829,
+    "p_frequency": 0.9578232257454483
+  },
+  {
+    "video_id": "Face2Face_352_319",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.9998725652694702,
+    "p_frequency": 0.7394047304987907
+  },
+  {
+    "video_id": "Face2Face_363_343",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.9999412298202515,
+    "p_frequency": 0.9953315925598144
+  },
+  {
+    "video_id": "Face2Face_367_371",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.9999547004699707,
+    "p_frequency": 0.9879636307557423
+  },
+  {
+    "video_id": "Face2Face_370_483",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.9997996687889099,
+    "p_frequency": 0.9645341527462006
+  },
+  {
+    "video_id": "Face2Face_373_394",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.9999291896820068,
+    "p_frequency": 0.630550117790699
+  },
+  {
+    "video_id": "Face2Face_379_158",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.9235219955444336,
+    "p_frequency": 0.6515286386013031
+  },
+  {
+    "video_id": "Face2Face_387_311",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.999771773815155,
+    "p_frequency": 0.9469828867912292
+  },
+  {
+    "video_id": "Face2Face_388_308",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.9999518394470215,
+    "p_frequency": 0.9960450132687887
+  },
+  {
+    "video_id": "Face2Face_389_480",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.9999219179153442,
+    "p_frequency": 0.99992133975029
+  },
+  {
+    "video_id": "Face2Face_405_393",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.999957799911499,
+    "p_frequency": 0.7062727014223734
+  },
+  {
+    "video_id": "Face2Face_410_411",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.9999489784240723,
+    "p_frequency": 0.9999999403953552
+  },
+  {
+    "video_id": "Face2Face_429_404",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.9999340772628784,
+    "p_frequency": 0.9972042520840962
+  },
+  {
+    "video_id": "Face2Face_432_357",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.9998701810836792,
+    "p_frequency": 0.5658457018435001
+  },
+  {
+    "video_id": "Face2Face_459_430",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.9998353719711304,
+    "p_frequency": 0.9170046622554461
+  },
+  {
+    "video_id": "Face2Face_464_463",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.9999411106109619,
+    "p_frequency": 0.9988455816551491
+  },
+  {
+    "video_id": "Face2Face_469_481",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.9999611377716064,
+    "p_frequency": 0.9999963641166687
+  },
+  {
+    "video_id": "Face2Face_470_468",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.9999572038650513,
+    "p_frequency": 0.9312655627727509
+  },
+  {
+    "video_id": "Face2Face_473_366",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.9999526739120483,
+    "p_frequency": 0.9979682962099711
+  },
+  {
+    "video_id": "Face2Face_511_472",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.9980430603027344,
+    "p_frequency": 0.6977147420247396
+  },
+  {
+    "video_id": "Face2Face_517_521",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.9999632835388184,
+    "p_frequency": 0.9987908857209342
+  },
+  {
+    "video_id": "Face2Face_546_621",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.9998924732208252,
+    "p_frequency": 0.691259149312973
+  },
+  {
+    "video_id": "Face2Face_549_531",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.999922513961792,
+    "p_frequency": 0.9235679220270627
+  },
+  {
+    "video_id": "Face2Face_551_631",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.9998973608016968,
+    "p_frequency": 0.826114555199941
+  },
+  {
+    "video_id": "Face2Face_558_583",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.9999208450317383,
+    "p_frequency": 0.5433980653683345
+  },
+  {
+    "video_id": "Face2Face_565_589",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.999923586845398,
+    "p_frequency": 0.9933536450068156
+  },
+  {
+    "video_id": "Face2Face_570_624",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.9998538494110107,
+    "p_frequency": 0.9828643163045248
+  },
+  {
+    "video_id": "Face2Face_574_547",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.9999179840087891,
+    "p_frequency": 0.9810108224550883
+  },
+  {
+    "video_id": "Face2Face_580_524",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.999948263168335,
+    "p_frequency": 0.6729814082384109
+  },
+  {
+    "video_id": "Face2Face_591_605",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.9999125003814697,
+    "p_frequency": 0.6046379804611206
+  },
+  {
+    "video_id": "Face2Face_603_575",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.9999349117279053,
+    "p_frequency": 0.9421763122081757
+  },
+  {
+    "video_id": "Face2Face_604_703",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.9999518394470215,
+    "p_frequency": 0.9730807590484619
+  },
+  {
+    "video_id": "Face2Face_616_614",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.9999511241912842,
+    "p_frequency": 0.9919698655605316
+  },
+  {
+    "video_id": "Face2Face_618_629",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.999923586845398,
+    "p_frequency": 0.9831484536329905
+  },
+  {
+    "video_id": "Face2Face_623_630",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.9998113512992859,
+    "p_frequency": 0.8246564726034801
+  },
+  {
+    "video_id": "Face2Face_633_529",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.9999134540557861,
+    "p_frequency": 0.9994882448859836
+  },
+  {
+    "video_id": "Face2Face_643_646",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.9999574422836304,
+    "p_frequency": 0.9933797279993694
+  },
+  {
+    "video_id": "Face2Face_650_625",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.9999217987060547,
+    "p_frequency": 0.9996445562158313
+  },
+  {
+    "video_id": "Face2Face_654_648",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.999957799911499,
+    "p_frequency": 0.9993466893831889
+  },
+  {
+    "video_id": "Face2Face_655_444",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.9999507665634155,
+    "p_frequency": 0.9999647736549377
+  },
+  {
+    "video_id": "Face2Face_658_627",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.9999462366104126,
+    "p_frequency": 0.9235599637031555
+  },
+  {
+    "video_id": "Face2Face_663_231",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.999908447265625,
+    "p_frequency": 0.919546906153361
+  },
+  {
+    "video_id": "Face2Face_665_679",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.9999510049819946,
+    "p_frequency": 0.8312650461991627
+  },
+  {
+    "video_id": "Face2Face_671_677",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.9999431371688843,
+    "p_frequency": 0.9974377552668253
+  },
+  {
+    "video_id": "Face2Face_677_671",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.9997249245643616,
+    "p_frequency": 0.9921407570009646
+  },
+  {
+    "video_id": "Face2Face_686_696",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.9999455213546753,
+    "p_frequency": 0.9783890624841054
+  },
+  {
+    "video_id": "Face2Face_692_610",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.9999474287033081,
+    "p_frequency": 0.9773809115091959
+  },
+  {
+    "video_id": "Face2Face_699_734",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.999951958656311,
+    "p_frequency": 0.9985727767149607
+  },
+  {
+    "video_id": "Face2Face_701_579",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.9998385906219482,
+    "p_frequency": 0.9869321684042612
+  },
+  {
+    "video_id": "Face2Face_704_723",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.9999547004699707,
+    "p_frequency": 0.9370566586653392
+  },
+  {
+    "video_id": "Face2Face_714_842",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.9999284744262695,
+    "p_frequency": 0.9918424665927887
+  },
+  {
+    "video_id": "Face2Face_718_972",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.999936580657959,
+    "p_frequency": 0.9976078730363113
+  },
+  {
+    "video_id": "Face2Face_721_715",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.9999101161956787,
+    "p_frequency": 0.3229368147750696
+  },
+  {
+    "video_id": "Face2Face_733_935",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.9985836744308472,
+    "p_frequency": 0.9834383149941762
+  },
+  {
+    "video_id": "Face2Face_735_774",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.9999505281448364,
+    "p_frequency": 0.9999659657478333
+  },
+  {
+    "video_id": "Face2Face_746_571",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.9999104738235474,
+    "p_frequency": 0.37728691250085833
+  },
+  {
+    "video_id": "Face2Face_747_854",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.9999117851257324,
+    "p_frequency": 0.8312190425395966
+  },
+  {
+    "video_id": "Face2Face_754_758",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.7363948225975037,
+    "p_frequency": 0.947289643464265
+  },
+  {
+    "video_id": "Face2Face_758_754",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.9979569911956787,
+    "p_frequency": 0.9352150669804326
+  },
+  {
+    "video_id": "Face2Face_759_755",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.9999423027038574,
+    "p_frequency": 0.9929178253464077
+  },
+  {
+    "video_id": "Face2Face_762_832",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.9999251365661621,
+    "p_frequency": 0.4023857846856117
+  },
+  {
+    "video_id": "Face2Face_777_745",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.9999545812606812,
+    "p_frequency": 0.9788372794787089
+  },
+  {
+    "video_id": "Face2Face_781_806",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.003033289685845375,
+    "p_frequency": 0.8263965042737814
+  },
+  {
+    "video_id": "Face2Face_786_819",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.9998462200164795,
+    "p_frequency": 0.9460128128528595
+  },
+  {
+    "video_id": "Face2Face_791_770",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.9999585151672363,
+    "p_frequency": 0.9994217952092489
+  },
+  {
+    "video_id": "Face2Face_794_779",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.9999368190765381,
+    "p_frequency": 0.47867646684440285
+  },
+  {
+    "video_id": "Face2Face_824_419",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.002510462887585163,
+    "p_frequency": 0.17064813688835678
+  },
+  {
+    "video_id": "Face2Face_825_074",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.9999188184738159,
+    "p_frequency": 0.9809586138560854
+  },
+  {
+    "video_id": "Face2Face_826_833",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.9993531107902527,
+    "p_frequency": 0.8263752520084381
+  },
+  {
+    "video_id": "Face2Face_828_830",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.9999585151672363,
+    "p_frequency": 0.9854456722736359
+  },
+  {
+    "video_id": "Face2Face_841_639",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.9999486207962036,
+    "p_frequency": 0.9845341126124064
+  },
+  {
+    "video_id": "Face2Face_849_771",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.9792312383651733,
+    "p_frequency": 0.7993976841370265
+  },
+  {
+    "video_id": "Face2Face_854_747",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.9549242258071899,
+    "p_frequency": 0.506936073799928
+  },
+  {
+    "video_id": "Face2Face_863_853",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.9999507665634155,
+    "p_frequency": 0.9939919749895731
+  },
+  {
+    "video_id": "Face2Face_867_765",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.9999486207962036,
+    "p_frequency": 0.9993077195607699
+  },
+  {
+    "video_id": "Face2Face_875_979",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.9998704195022583,
+    "p_frequency": 0.9624938679778058
+  },
+  {
+    "video_id": "Face2Face_882_952",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.9993599057197571,
+    "p_frequency": 0.9995244522889455
+  },
+  {
+    "video_id": "Face2Face_887_275",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.9988276362419128,
+    "p_frequency": 0.9794833938280741
+  },
+  {
+    "video_id": "Face2Face_890_837",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.9999544620513916,
+    "p_frequency": 0.9999416987101237
+  },
+  {
+    "video_id": "Face2Face_906_847",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.9996678829193115,
+    "p_frequency": 0.821609357992808
+  },
+  {
+    "video_id": "Face2Face_907_795",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.9998949766159058,
+    "p_frequency": 0.32988773013154665
+  },
+  {
+    "video_id": "Face2Face_913_893",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.9999551773071289,
+    "p_frequency": 0.9956180115540822
+  },
+  {
+    "video_id": "Face2Face_947_951",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.9999098777770996,
+    "p_frequency": 0.9430809517701467
+  },
+  {
+    "video_id": "Face2Face_954_976",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.9970801472663879,
+    "p_frequency": 0.939849928021431
+  },
+  {
+    "video_id": "Face2Face_964_174",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.999941349029541,
+    "p_frequency": 0.9877514243125916
+  },
+  {
+    "video_id": "Face2Face_970_973",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.9999274015426636,
+    "p_frequency": 0.9558131833871205
+  },
+  {
+    "video_id": "Face2Face_974_953",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.9998761415481567,
+    "p_frequency": 0.8465667317310969
+  },
+  {
+    "video_id": "Face2Face_978_975",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.9998877048492432,
+    "p_frequency": 0.9532151193845839
+  },
+  {
+    "video_id": "Face2Face_982_004",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.9999415874481201,
+    "p_frequency": 0.4919585963854423
+  },
+  {
+    "video_id": "Face2Face_983_113",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.9999642372131348,
+    "p_frequency": 0.990794821580251
+  },
+  {
+    "video_id": "Face2Face_986_994",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.9999371767044067,
+    "p_frequency": 0.9543129558916446
+  },
+  {
+    "video_id": "Face2Face_990_008",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.9999498128890991,
+    "p_frequency": 0.8122920627395313
+  },
+  {
+    "video_id": "Face2Face_992_980",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.9999382495880127,
+    "p_frequency": 0.9879600485165914
+  },
+  {
+    "video_id": "Face2Face_994_986",
+    "label": 1,
+    "type": "Face2Face",
+    "p_spatial": 0.9894837737083435,
+    "p_frequency": 0.6388674405713876
+  },
+  {
+    "video_id": "FaceSwap_006_002",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.9927219748497009,
+    "p_frequency": 0.8975542471522376
+  },
+  {
+    "video_id": "FaceSwap_025_067",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.9999070167541504,
+    "p_frequency": 0.9915202180544536
+  },
+  {
+    "video_id": "FaceSwap_027_009",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.9998109936714172,
+    "p_frequency": 0.9603966871897379
+  },
+  {
+    "video_id": "FaceSwap_030_193",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.9999387264251709,
+    "p_frequency": 0.9312119275331497
+  },
+  {
+    "video_id": "FaceSwap_032_944",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.9999512434005737,
+    "p_frequency": 0.9796620806058248
+  },
+  {
+    "video_id": "FaceSwap_044_945",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.9999299049377441,
+    "p_frequency": 0.7463973890180173
+  },
+  {
+    "video_id": "FaceSwap_046_904",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.9998829364776611,
+    "p_frequency": 0.9623726680874825
+  },
+  {
+    "video_id": "FaceSwap_057_070",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.9999432563781738,
+    "p_frequency": 0.9978171428044637
+  },
+  {
+    "video_id": "FaceSwap_067_025",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.9998934268951416,
+    "p_frequency": 0.8480060696601868
+  },
+  {
+    "video_id": "FaceSwap_071_054",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.9999221563339233,
+    "p_frequency": 0.9828584718704224
+  },
+  {
+    "video_id": "FaceSwap_073_024",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.7618429064750671,
+    "p_frequency": 0.49366341817837495
+  },
+  {
+    "video_id": "FaceSwap_080_061",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.9999206066131592,
+    "p_frequency": 0.9973377153791231
+  },
+  {
+    "video_id": "FaceSwap_081_087",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.9999122619628906,
+    "p_frequency": 0.9025888626392071
+  },
+  {
+    "video_id": "FaceSwap_089_065",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.999953031539917,
+    "p_frequency": 0.8957843611637751
+  },
+  {
+    "video_id": "FaceSwap_094_111",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.9999375343322754,
+    "p_frequency": 0.9649986267089844
+  },
+  {
+    "video_id": "FaceSwap_095_053",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.999950647354126,
+    "p_frequency": 0.9983956356843312
+  },
+  {
+    "video_id": "FaceSwap_099_295",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.9998106360435486,
+    "p_frequency": 0.7582693244020144
+  },
+  {
+    "video_id": "FaceSwap_103_082",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.999919056892395,
+    "p_frequency": 0.9999694382702863
+  },
+  {
+    "video_id": "FaceSwap_104_126",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.9999241828918457,
+    "p_frequency": 0.894878277047114
+  },
+  {
+    "video_id": "FaceSwap_114_102",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.9999376535415649,
+    "p_frequency": 0.9729798873265584
+  },
+  {
+    "video_id": "FaceSwap_127_129",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.9999141693115234,
+    "p_frequency": 0.9999229691245339
+  },
+  {
+    "video_id": "FaceSwap_142_138",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.9999370574951172,
+    "p_frequency": 0.9878650526205699
+  },
+  {
+    "video_id": "FaceSwap_146_256",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.9900004267692566,
+    "p_frequency": 0.9786104182402293
+  },
+  {
+    "video_id": "FaceSwap_159_175",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.9999222755432129,
+    "p_frequency": 0.8886691800185612
+  },
+  {
+    "video_id": "FaceSwap_163_031",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.9997223019599915,
+    "p_frequency": 0.8278582834062123
+  },
+  {
+    "video_id": "FaceSwap_166_167",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.9999334812164307,
+    "p_frequency": 0.9039187051098923
+  },
+  {
+    "video_id": "FaceSwap_167_166",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.9999489784240723,
+    "p_frequency": 0.9795008938888023
+  },
+  {
+    "video_id": "FaceSwap_175_159",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.9999264478683472,
+    "p_frequency": 0.9128402242703098
+  },
+  {
+    "video_id": "FaceSwap_196_310",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.9998999834060669,
+    "p_frequency": 0.09785775827864805
+  },
+  {
+    "video_id": "FaceSwap_203_201",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.9999330043792725,
+    "p_frequency": 0.9694693088531494
+  },
+  {
+    "video_id": "FaceSwap_214_255",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.9999042749404907,
+    "p_frequency": 0.9310524925589562
+  },
+  {
+    "video_id": "FaceSwap_216_164",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.9995591044425964,
+    "p_frequency": 0.8746027886867523
+  },
+  {
+    "video_id": "FaceSwap_217_117",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.9990111589431763,
+    "p_frequency": 0.8761929152611022
+  },
+  {
+    "video_id": "FaceSwap_220_219",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.999924898147583,
+    "p_frequency": 0.9993360380331675
+  },
+  {
+    "video_id": "FaceSwap_223_586",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.9997918009757996,
+    "p_frequency": 0.9991478671630224
+  },
+  {
+    "video_id": "FaceSwap_224_197",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.999798595905304,
+    "p_frequency": 0.9143483440081278
+  },
+  {
+    "video_id": "FaceSwap_225_151",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.9993211030960083,
+    "p_frequency": 0.6076186817316782
+  },
+  {
+    "video_id": "FaceSwap_228_289",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.9999172687530518,
+    "p_frequency": 0.9558727463086446
+  },
+  {
+    "video_id": "FaceSwap_233_995",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.9960246086120605,
+    "p_frequency": 0.690568046628808
+  },
+  {
+    "video_id": "FaceSwap_234_187",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.994281530380249,
+    "p_frequency": 0.857300540804863
+  },
+  {
+    "video_id": "FaceSwap_238_282",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.9999462366104126,
+    "p_frequency": 0.9256423393885295
+  },
+  {
+    "video_id": "FaceSwap_250_461",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.9999560117721558,
+    "p_frequency": 0.9944263140360514
+  },
+  {
+    "video_id": "FaceSwap_252_266",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.9996479749679565,
+    "p_frequency": 0.9251208444436391
+  },
+  {
+    "video_id": "FaceSwap_269_268",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.99991774559021,
+    "p_frequency": 0.9362195546810443
+  },
+  {
+    "video_id": "FaceSwap_270_297",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.9999473094940186,
+    "p_frequency": 0.959053812118677
+  },
+  {
+    "video_id": "FaceSwap_271_264",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.9997580647468567,
+    "p_frequency": 0.9152581890424093
+  },
+  {
+    "video_id": "FaceSwap_273_807",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.9998162388801575,
+    "p_frequency": 0.7095826891335574
+  },
+  {
+    "video_id": "FaceSwap_274_412",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.9999345541000366,
+    "p_frequency": 0.4133555392424266
+  },
+  {
+    "video_id": "FaceSwap_276_185",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.9999176263809204,
+    "p_frequency": 0.8223377083029065
+  },
+  {
+    "video_id": "FaceSwap_281_474",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.9881830811500549,
+    "p_frequency": 0.8363862305879592
+  },
+  {
+    "video_id": "FaceSwap_284_263",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.9999384880065918,
+    "p_frequency": 0.9843367397785187
+  },
+  {
+    "video_id": "FaceSwap_296_293",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.999953031539917,
+    "p_frequency": 0.9992451391049794
+  },
+  {
+    "video_id": "FaceSwap_300_304",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.9999297857284546,
+    "p_frequency": 0.9688055237134298
+  },
+  {
+    "video_id": "FaceSwap_322_315",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.9999232292175293,
+    "p_frequency": 0.963438698223659
+  },
+  {
+    "video_id": "FaceSwap_323_302",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.999937891960144,
+    "p_frequency": 0.9797091782093048
+  },
+  {
+    "video_id": "FaceSwap_332_051",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.9999222755432129,
+    "p_frequency": 0.6258910040060679
+  },
+  {
+    "video_id": "FaceSwap_344_020",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.9999333620071411,
+    "p_frequency": 0.9999894897143046
+  },
+  {
+    "video_id": "FaceSwap_348_202",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.9999179840087891,
+    "p_frequency": 0.981466288919802
+  },
+  {
+    "video_id": "FaceSwap_352_319",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.9999290704727173,
+    "p_frequency": 0.4492844351877769
+  },
+  {
+    "video_id": "FaceSwap_363_343",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.9999098777770996,
+    "p_frequency": 0.9122936797142028
+  },
+  {
+    "video_id": "FaceSwap_367_371",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.9999229907989502,
+    "p_frequency": 0.9895533641179403
+  },
+  {
+    "video_id": "FaceSwap_370_483",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.9998708963394165,
+    "p_frequency": 0.8203105401992797
+  },
+  {
+    "video_id": "FaceSwap_373_394",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.9999337196350098,
+    "p_frequency": 0.37363819107413293
+  },
+  {
+    "video_id": "FaceSwap_379_158",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.9997816681861877,
+    "p_frequency": 0.6803288790194885
+  },
+  {
+    "video_id": "FaceSwap_387_311",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.9946510195732117,
+    "p_frequency": 0.9904294896125794
+  },
+  {
+    "video_id": "FaceSwap_388_308",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.9999240636825562,
+    "p_frequency": 0.9867407282193502
+  },
+  {
+    "video_id": "FaceSwap_389_480",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.9999375343322754,
+    "p_frequency": 0.9764094065736841
+  },
+  {
+    "video_id": "FaceSwap_405_393",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.9999310970306396,
+    "p_frequency": 0.8366300870974859
+  },
+  {
+    "video_id": "FaceSwap_410_411",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.9999397993087769,
+    "p_frequency": 0.9997856318950653
+  },
+  {
+    "video_id": "FaceSwap_429_404",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.9999229907989502,
+    "p_frequency": 0.9985047479470571
+  },
+  {
+    "video_id": "FaceSwap_432_357",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.9999210834503174,
+    "p_frequency": 0.5434539802372456
+  },
+  {
+    "video_id": "FaceSwap_459_430",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.999871015548706,
+    "p_frequency": 0.723733043919007
+  },
+  {
+    "video_id": "FaceSwap_464_463",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.9999089241027832,
+    "p_frequency": 0.9218367779696429
+  },
+  {
+    "video_id": "FaceSwap_469_481",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.9999381303787231,
+    "p_frequency": 0.9946565010717937
+  },
+  {
+    "video_id": "FaceSwap_470_468",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.999919056892395,
+    "p_frequency": 0.612874848395586
+  },
+  {
+    "video_id": "FaceSwap_473_366",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.99993896484375,
+    "p_frequency": 0.9974585632483165
+  },
+  {
+    "video_id": "FaceSwap_511_472",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.9999384880065918,
+    "p_frequency": 0.9990751326084137
+  },
+  {
+    "video_id": "FaceSwap_517_521",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.9999313354492188,
+    "p_frequency": 0.999622853029342
+  },
+  {
+    "video_id": "FaceSwap_546_621",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.9998847246170044,
+    "p_frequency": 0.4710093840956688
+  },
+  {
+    "video_id": "FaceSwap_549_531",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.9999450445175171,
+    "p_frequency": 0.9981073295628583
+  },
+  {
+    "video_id": "FaceSwap_551_631",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.9999402761459351,
+    "p_frequency": 0.7631110469500224
+  },
+  {
+    "video_id": "FaceSwap_558_583",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.9999237060546875,
+    "p_frequency": 0.4701730117201805
+  },
+  {
+    "video_id": "FaceSwap_565_589",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.9999440908432007,
+    "p_frequency": 0.7699133237202962
+  },
+  {
+    "video_id": "FaceSwap_570_624",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.9999269247055054,
+    "p_frequency": 0.9987217843532562
+  },
+  {
+    "video_id": "FaceSwap_574_547",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.9999079704284668,
+    "p_frequency": 0.9616134703159332
+  },
+  {
+    "video_id": "FaceSwap_580_524",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.999916672706604,
+    "p_frequency": 0.9235472917556763
+  },
+  {
+    "video_id": "FaceSwap_591_605",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.999488115310669,
+    "p_frequency": 0.6794121712446213
+  },
+  {
+    "video_id": "FaceSwap_603_575",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.9999544620513916,
+    "p_frequency": 0.33810928612947466
+  },
+  {
+    "video_id": "FaceSwap_604_703",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.0006221632356755435,
+    "p_frequency": 0.5105961979925633
+  },
+  {
+    "video_id": "FaceSwap_616_614",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.9998891353607178,
+    "p_frequency": 0.9942776342233022
+  },
+  {
+    "video_id": "FaceSwap_618_629",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.9998156428337097,
+    "p_frequency": 0.9672432104746501
+  },
+  {
+    "video_id": "FaceSwap_623_630",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.99991774559021,
+    "p_frequency": 0.942168782154719
+  },
+  {
+    "video_id": "FaceSwap_633_529",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.9999194145202637,
+    "p_frequency": 0.9899250968642856
+  },
+  {
+    "video_id": "FaceSwap_643_646",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.9999315738677979,
+    "p_frequency": 0.9384052324295044
+  },
+  {
+    "video_id": "FaceSwap_650_625",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.9999535083770752,
+    "p_frequency": 0.9912432985646384
+  },
+  {
+    "video_id": "FaceSwap_654_648",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.9999181032180786,
+    "p_frequency": 0.9479427556196849
+  },
+  {
+    "video_id": "FaceSwap_655_444",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.9999221563339233,
+    "p_frequency": 0.9838147719701131
+  },
+  {
+    "video_id": "FaceSwap_658_627",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.9999253749847412,
+    "p_frequency": 0.9073746154705683
+  },
+  {
+    "video_id": "FaceSwap_663_231",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.999841570854187,
+    "p_frequency": 0.6044178491941204
+  },
+  {
+    "video_id": "FaceSwap_665_679",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.9999493360519409,
+    "p_frequency": 0.9217920899391174
+  },
+  {
+    "video_id": "FaceSwap_671_677",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.9999125003814697,
+    "p_frequency": 0.6923653788509823
+  },
+  {
+    "video_id": "FaceSwap_677_671",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.007548916153609753,
+    "p_frequency": 0.9915307760238647
+  },
+  {
+    "video_id": "FaceSwap_686_696",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.9998974800109863,
+    "p_frequency": 0.9854035171969183
+  },
+  {
+    "video_id": "FaceSwap_692_610",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.9996294975280762,
+    "p_frequency": 0.6337230630218983
+  },
+  {
+    "video_id": "FaceSwap_699_734",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.9999288320541382,
+    "p_frequency": 0.9525613447030385
+  },
+  {
+    "video_id": "FaceSwap_701_579",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.9995325803756714,
+    "p_frequency": 0.705455681792012
+  },
+  {
+    "video_id": "FaceSwap_704_723",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.9999003410339355,
+    "p_frequency": 0.8887682020664215
+  },
+  {
+    "video_id": "FaceSwap_714_842",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.982628583908081,
+    "p_frequency": 0.12406638931909887
+  },
+  {
+    "video_id": "FaceSwap_718_972",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.9996137022972107,
+    "p_frequency": 0.99992125080182
+  },
+  {
+    "video_id": "FaceSwap_721_715",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.999901294708252,
+    "p_frequency": 0.6749090226987998
+  },
+  {
+    "video_id": "FaceSwap_733_935",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.9998495578765869,
+    "p_frequency": 0.9051467537879944
+  },
+  {
+    "video_id": "FaceSwap_735_774",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.9999244213104248,
+    "p_frequency": 0.9993253832771665
+  },
+  {
+    "video_id": "FaceSwap_746_571",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.9999253749847412,
+    "p_frequency": 0.8991367479165395
+  },
+  {
+    "video_id": "FaceSwap_747_854",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.9998024106025696,
+    "p_frequency": 0.9987556338310242
+  },
+  {
+    "video_id": "FaceSwap_754_758",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.9999340772628784,
+    "p_frequency": 0.9999948430944372
+  },
+  {
+    "video_id": "FaceSwap_758_754",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.9063159823417664,
+    "p_frequency": 0.9322814610269334
+  },
+  {
+    "video_id": "FaceSwap_759_755",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.9998345375061035,
+    "p_frequency": 0.4041414377482041
+  },
+  {
+    "video_id": "FaceSwap_762_832",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.9999128580093384,
+    "p_frequency": 0.9858252902825674
+  },
+  {
+    "video_id": "FaceSwap_778_798",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.9995755553245544,
+    "p_frequency": 0.9999392384832556
+  },
+  {
+    "video_id": "FaceSwap_782_787",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.999931812286377,
+    "p_frequency": 0.9243763983249664
+  },
+  {
+    "video_id": "FaceSwap_787_782",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.9999103546142578,
+    "p_frequency": 0.8430367459853491
+  },
+  {
+    "video_id": "FaceSwap_792_903",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.9999456405639648,
+    "p_frequency": 0.9910720705986023
+  },
+  {
+    "video_id": "FaceSwap_795_907",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.9999430179595947,
+    "p_frequency": 0.6702808280785878
+  },
+  {
+    "video_id": "FaceSwap_825_074",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.9929721355438232,
+    "p_frequency": 0.9011674030073757
+  },
+  {
+    "video_id": "FaceSwap_826_833",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.9731950163841248,
+    "p_frequency": 0.5529580781857173
+  },
+  {
+    "video_id": "FaceSwap_827_817",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.9999001026153564,
+    "p_frequency": 0.8438343774704706
+  },
+  {
+    "video_id": "FaceSwap_829_808",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.999955415725708,
+    "p_frequency": 0.8300560216108958
+  },
+  {
+    "video_id": "FaceSwap_842_714",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.9998639822006226,
+    "p_frequency": 0.7227240602175394
+  },
+  {
+    "video_id": "FaceSwap_850_764",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.9999160766601562,
+    "p_frequency": 0.9992754435539246
+  },
+  {
+    "video_id": "FaceSwap_855_801",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.9999277591705322,
+    "p_frequency": 0.9970325668652852
+  },
+  {
+    "video_id": "FaceSwap_864_839",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.999916672706604,
+    "p_frequency": 0.9981712507350105
+  },
+  {
+    "video_id": "FaceSwap_868_949",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.9999399185180664,
+    "p_frequency": 0.9121610501716877
+  },
+  {
+    "video_id": "FaceSwap_876_891",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.999823272228241,
+    "p_frequency": 0.9666290611028672
+  },
+  {
+    "video_id": "FaceSwap_883_013",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.9999477863311768,
+    "p_frequency": 0.7688924414770943
+  },
+  {
+    "video_id": "FaceSwap_888_937",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.9998487234115601,
+    "p_frequency": 0.9488300039218023
+  },
+  {
+    "video_id": "FaceSwap_891_876",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.999933123588562,
+    "p_frequency": 0.9840480029582978
+  },
+  {
+    "video_id": "FaceSwap_907_795",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.9999470710754395,
+    "p_frequency": 0.9156254490216573
+  },
+  {
+    "video_id": "FaceSwap_914_899",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.9999312162399292,
+    "p_frequency": 0.7483841414962497
+  },
+  {
+    "video_id": "FaceSwap_927_912",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.9999246597290039,
+    "p_frequency": 0.9020674099524816
+  },
+  {
+    "video_id": "FaceSwap_947_951",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.9998356103897095,
+    "p_frequency": 0.9377292553583781
+  },
+  {
+    "video_id": "FaceSwap_954_976",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.9991416931152344,
+    "p_frequency": 0.896512257201331
+  },
+  {
+    "video_id": "FaceSwap_964_174",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.9999324083328247,
+    "p_frequency": 0.9723388297217233
+  },
+  {
+    "video_id": "FaceSwap_970_973",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.999929666519165,
+    "p_frequency": 0.9980150004227956
+  },
+  {
+    "video_id": "FaceSwap_974_953",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.9999192953109741,
+    "p_frequency": 0.8663325839572482
+  },
+  {
+    "video_id": "FaceSwap_978_975",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.999864935874939,
+    "p_frequency": 0.9584533430281139
+  },
+  {
+    "video_id": "FaceSwap_982_004",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.9999150037765503,
+    "p_frequency": 0.9778765577536362
+  },
+  {
+    "video_id": "FaceSwap_983_113",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.9999415874481201,
+    "p_frequency": 0.9997732142607371
+  },
+  {
+    "video_id": "FaceSwap_986_994",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.9999414682388306,
+    "p_frequency": 0.8677737801163284
+  },
+  {
+    "video_id": "FaceSwap_990_008",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.9999305009841919,
+    "p_frequency": 0.8830796938676101
+  },
+  {
+    "video_id": "FaceSwap_992_980",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.9999092817306519,
+    "p_frequency": 0.8972414980332056
+  },
+  {
+    "video_id": "FaceSwap_994_986",
+    "label": 1,
+    "type": "FaceSwap",
+    "p_spatial": 0.9998922348022461,
+    "p_frequency": 0.9702212148242526
+  },
+  {
+    "video_id": "NeuralTextures_006_002",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.9998536109924316,
+    "p_frequency": 0.5754377487159911
+  },
+  {
+    "video_id": "NeuralTextures_025_067",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.9992650151252747,
+    "p_frequency": 0.7150827358166377
+  },
+  {
+    "video_id": "NeuralTextures_027_009",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.9920952916145325,
+    "p_frequency": 0.8333669645445687
+  },
+  {
+    "video_id": "NeuralTextures_030_193",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.9998421669006348,
+    "p_frequency": 0.8727240175008774
+  },
+  {
+    "video_id": "NeuralTextures_032_944",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.9999409914016724,
+    "p_frequency": 0.9512433948970976
+  },
+  {
+    "video_id": "NeuralTextures_044_945",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.999786913394928,
+    "p_frequency": 0.8330373336439547
+  },
+  {
+    "video_id": "NeuralTextures_046_904",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.997294008731842,
+    "p_frequency": 0.027488963406843443
+  },
+  {
+    "video_id": "NeuralTextures_057_070",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.9997617602348328,
+    "p_frequency": 0.8625853955745697
+  },
+  {
+    "video_id": "NeuralTextures_067_025",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.9997287392616272,
+    "p_frequency": 0.7610660165548324
+  },
+  {
+    "video_id": "NeuralTextures_071_054",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.004850402008742094,
+    "p_frequency": 0.3990317565202713
+  },
+  {
+    "video_id": "NeuralTextures_073_024",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.022774484008550644,
+    "p_frequency": 0.024226400087802455
+  },
+  {
+    "video_id": "NeuralTextures_080_061",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.9998117089271545,
+    "p_frequency": 0.9551551691417036
+  },
+  {
+    "video_id": "NeuralTextures_081_087",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.3440209627151489,
+    "p_frequency": 0.40230571278012717
+  },
+  {
+    "video_id": "NeuralTextures_089_065",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.9999316930770874,
+    "p_frequency": 0.621224507689476
+  },
+  {
+    "video_id": "NeuralTextures_094_111",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.9999194145202637,
+    "p_frequency": 0.9431889692942301
+  },
+  {
+    "video_id": "NeuralTextures_095_053",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.9997988343238831,
+    "p_frequency": 0.8056258430083593
+  },
+  {
+    "video_id": "NeuralTextures_099_295",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.9999179840087891,
+    "p_frequency": 0.17433645967394112
+  },
+  {
+    "video_id": "NeuralTextures_103_082",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.9997910857200623,
+    "p_frequency": 0.8438979740496035
+  },
+  {
+    "video_id": "NeuralTextures_104_126",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.1664135903120041,
+    "p_frequency": 0.26047412577000534
+  },
+  {
+    "video_id": "NeuralTextures_114_102",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.9998255372047424,
+    "p_frequency": 0.6331139753262202
+  },
+  {
+    "video_id": "NeuralTextures_127_129",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.999810516834259,
+    "p_frequency": 0.9761013171889565
+  },
+  {
+    "video_id": "NeuralTextures_142_138",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.9996206760406494,
+    "p_frequency": 0.7445626894632975
+  },
+  {
+    "video_id": "NeuralTextures_146_256",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.9998849630355835,
+    "p_frequency": 0.6125315363208453
+  },
+  {
+    "video_id": "NeuralTextures_159_175",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.8839026093482971,
+    "p_frequency": 0.6489505251603467
+  },
+  {
+    "video_id": "NeuralTextures_163_031",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.9994552731513977,
+    "p_frequency": 0.9827521471750169
+  },
+  {
+    "video_id": "NeuralTextures_166_167",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.9872654676437378,
+    "p_frequency": 0.8140094989332659
+  },
+  {
+    "video_id": "NeuralTextures_167_166",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.9998010993003845,
+    "p_frequency": 0.7739066389100305
+  },
+  {
+    "video_id": "NeuralTextures_175_159",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.9571903944015503,
+    "p_frequency": 0.7329393763627324
+  },
+  {
+    "video_id": "NeuralTextures_196_310",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.13202975690364838,
+    "p_frequency": 0.14347514317681392
+  },
+  {
+    "video_id": "NeuralTextures_203_201",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.9991338849067688,
+    "p_frequency": 0.7304348587989807
+  },
+  {
+    "video_id": "NeuralTextures_214_255",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.9999129772186279,
+    "p_frequency": 0.9718607187271118
+  },
+  {
+    "video_id": "NeuralTextures_216_164",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.9998165965080261,
+    "p_frequency": 0.5679101218779882
+  },
+  {
+    "video_id": "NeuralTextures_217_117",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.39321839809417725,
+    "p_frequency": 0.2603493857507904
+  },
+  {
+    "video_id": "NeuralTextures_220_219",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.9992908239364624,
+    "p_frequency": 0.9626645108064016
+  },
+  {
+    "video_id": "NeuralTextures_223_586",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.0027150369714945555,
+    "p_frequency": 0.4347854865094026
+  },
+  {
+    "video_id": "NeuralTextures_224_197",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.9988434314727783,
+    "p_frequency": 0.9858421127001444
+  },
+  {
+    "video_id": "NeuralTextures_225_151",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.9999014139175415,
+    "p_frequency": 0.7561972737312317
+  },
+  {
+    "video_id": "NeuralTextures_228_289",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.9996590614318848,
+    "p_frequency": 0.6109636902809144
+  },
+  {
+    "video_id": "NeuralTextures_233_995",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.12649093568325043,
+    "p_frequency": 0.14788045398890973
+  },
+  {
+    "video_id": "NeuralTextures_234_187",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.9983349442481995,
+    "p_frequency": 0.8318064272403717
+  },
+  {
+    "video_id": "NeuralTextures_238_282",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.992233395576477,
+    "p_frequency": 0.6205724984407425
+  },
+  {
+    "video_id": "NeuralTextures_250_461",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.9999370574951172,
+    "p_frequency": 0.9199275036652883
+  },
+  {
+    "video_id": "NeuralTextures_252_266",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.998852014541626,
+    "p_frequency": 0.9402002573013306
+  },
+  {
+    "video_id": "NeuralTextures_270_297",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.9121015667915344,
+    "p_frequency": 0.2641018752295237
+  },
+  {
+    "video_id": "NeuralTextures_271_264",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.9997058510780334,
+    "p_frequency": 0.9337867140769959
+  },
+  {
+    "video_id": "NeuralTextures_273_807",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.9998542070388794,
+    "p_frequency": 0.8462573750452562
+  },
+  {
+    "video_id": "NeuralTextures_274_412",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.9987334609031677,
+    "p_frequency": 0.39259975055853524
+  },
+  {
+    "video_id": "NeuralTextures_276_185",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.9997323155403137,
+    "p_frequency": 0.903994477220944
+  },
+  {
+    "video_id": "NeuralTextures_281_474",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.2626076638698578,
+    "p_frequency": 0.9547786295413971
+  },
+  {
+    "video_id": "NeuralTextures_284_263",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.9999170303344727,
+    "p_frequency": 0.835262556374073
+  },
+  {
+    "video_id": "NeuralTextures_296_293",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.9998408555984497,
+    "p_frequency": 0.9980158294950213
+  },
+  {
+    "video_id": "NeuralTextures_300_304",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.9755759835243225,
+    "p_frequency": 0.738654688000679
+  },
+  {
+    "video_id": "NeuralTextures_322_315",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.9668448567390442,
+    "p_frequency": 0.9107235499790737
+  },
+  {
+    "video_id": "NeuralTextures_323_302",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.9998400211334229,
+    "p_frequency": 0.7910546958446503
+  },
+  {
+    "video_id": "NeuralTextures_332_051",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.9998435974121094,
+    "p_frequency": 0.6720229685306549
+  },
+  {
+    "video_id": "NeuralTextures_344_020",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.9997692704200745,
+    "p_frequency": 0.7417968134085338
+  },
+  {
+    "video_id": "NeuralTextures_348_202",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.9999122619628906,
+    "p_frequency": 0.967372907532586
+  },
+  {
+    "video_id": "NeuralTextures_352_319",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.9998912811279297,
+    "p_frequency": 0.787741074959437
+  },
+  {
+    "video_id": "NeuralTextures_363_343",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.9992927312850952,
+    "p_frequency": 0.9719033002853393
+  },
+  {
+    "video_id": "NeuralTextures_367_371",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.9897348880767822,
+    "p_frequency": 0.856158729394277
+  },
+  {
+    "video_id": "NeuralTextures_370_483",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.9391116499900818,
+    "p_frequency": 0.2852074748277664
+  },
+  {
+    "video_id": "NeuralTextures_373_394",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.9793581366539001,
+    "p_frequency": 0.20186407808214427
+  },
+  {
+    "video_id": "NeuralTextures_379_158",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.8279194831848145,
+    "p_frequency": 0.8686969461648361
+  },
+  {
+    "video_id": "NeuralTextures_387_311",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.9865230917930603,
+    "p_frequency": 0.8880491638183594
+  },
+  {
+    "video_id": "NeuralTextures_388_308",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.9998948574066162,
+    "p_frequency": 0.9469138741493225
+  },
+  {
+    "video_id": "NeuralTextures_389_480",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.9998905658721924,
+    "p_frequency": 0.9641555459411056
+  },
+  {
+    "video_id": "NeuralTextures_405_393",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.9999397993087769,
+    "p_frequency": 0.556255471209685
+  },
+  {
+    "video_id": "NeuralTextures_410_411",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.9997661709785461,
+    "p_frequency": 0.9743993163108826
+  },
+  {
+    "video_id": "NeuralTextures_429_404",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.9979016780853271,
+    "p_frequency": 0.9882603605588277
+  },
+  {
+    "video_id": "NeuralTextures_432_357",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.9997592568397522,
+    "p_frequency": 0.4506182260811329
+  },
+  {
+    "video_id": "NeuralTextures_459_430",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.9998617172241211,
+    "p_frequency": 0.6583839741845926
+  },
+  {
+    "video_id": "NeuralTextures_464_463",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.9999035596847534,
+    "p_frequency": 0.9918763747921696
+  },
+  {
+    "video_id": "NeuralTextures_469_481",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.9990835189819336,
+    "p_frequency": 0.4895698340343578
+  },
+  {
+    "video_id": "NeuralTextures_470_468",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.5614465475082397,
+    "p_frequency": 0.3059824467947086
+  },
+  {
+    "video_id": "NeuralTextures_473_366",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.9995867609977722,
+    "p_frequency": 0.8427093674739202
+  },
+  {
+    "video_id": "NeuralTextures_511_472",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.9655113816261292,
+    "p_frequency": 0.46888418098290763
+  },
+  {
+    "video_id": "NeuralTextures_517_521",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.999903678894043,
+    "p_frequency": 0.8637097307613918
+  },
+  {
+    "video_id": "NeuralTextures_546_621",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.9981378316879272,
+    "p_frequency": 0.11045689538121223
+  },
+  {
+    "video_id": "NeuralTextures_549_531",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.9995203018188477,
+    "p_frequency": 0.7083180127320466
+  },
+  {
+    "video_id": "NeuralTextures_551_631",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.7896443009376526,
+    "p_frequency": 0.3849059154589971
+  },
+  {
+    "video_id": "NeuralTextures_558_583",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.9996490478515625,
+    "p_frequency": 0.3075010420754552
+  },
+  {
+    "video_id": "NeuralTextures_565_589",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.9998624324798584,
+    "p_frequency": 0.905467426776886
+  },
+  {
+    "video_id": "NeuralTextures_570_624",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.9995854496955872,
+    "p_frequency": 0.9004798869291941
+  },
+  {
+    "video_id": "NeuralTextures_574_547",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.9970499277114868,
+    "p_frequency": 0.8200100243091584
+  },
+  {
+    "video_id": "NeuralTextures_580_524",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.999768078327179,
+    "p_frequency": 0.3815545316785574
+  },
+  {
+    "video_id": "NeuralTextures_591_605",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.9996230602264404,
+    "p_frequency": 0.3570800445973873
+  },
+  {
+    "video_id": "NeuralTextures_603_575",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.28808772563934326,
+    "p_frequency": 0.4281465122103691
+  },
+  {
+    "video_id": "NeuralTextures_604_703",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.9998348951339722,
+    "p_frequency": 0.6915442419052124
+  },
+  {
+    "video_id": "NeuralTextures_616_614",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.99991774559021,
+    "p_frequency": 0.9227253715197246
+  },
+  {
+    "video_id": "NeuralTextures_618_629",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.9998120665550232,
+    "p_frequency": 0.6026694398994247
+  },
+  {
+    "video_id": "NeuralTextures_623_630",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.9997541308403015,
+    "p_frequency": 0.8615542054176331
+  },
+  {
+    "video_id": "NeuralTextures_633_529",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.9463216066360474,
+    "p_frequency": 0.97895290022311
+  },
+  {
+    "video_id": "NeuralTextures_643_646",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.9999377727508545,
+    "p_frequency": 0.7994318008422852
+  },
+  {
+    "video_id": "NeuralTextures_650_625",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.6852691173553467,
+    "p_frequency": 0.7803830898233822
+  },
+  {
+    "video_id": "NeuralTextures_654_648",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.9999136924743652,
+    "p_frequency": 0.946755035718282
+  },
+  {
+    "video_id": "NeuralTextures_655_444",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.9994853734970093,
+    "p_frequency": 0.954859455426534
+  },
+  {
+    "video_id": "NeuralTextures_658_627",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.9998843669891357,
+    "p_frequency": 0.8790554980436961
+  },
+  {
+    "video_id": "NeuralTextures_663_231",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.9998763799667358,
+    "p_frequency": 0.903440139911793
+  },
+  {
+    "video_id": "NeuralTextures_665_679",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.9996963739395142,
+    "p_frequency": 0.8430030478371514
+  },
+  {
+    "video_id": "NeuralTextures_671_677",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.9995922446250916,
+    "p_frequency": 0.6697849070742017
+  },
+  {
+    "video_id": "NeuralTextures_677_671",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.9996945858001709,
+    "p_frequency": 0.9682817317190624
+  },
+  {
+    "video_id": "NeuralTextures_686_696",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.9999274015426636,
+    "p_frequency": 0.8776875816542526
+  },
+  {
+    "video_id": "NeuralTextures_692_610",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.00042260956251993775,
+    "p_frequency": 0.29242371330037714
+  },
+  {
+    "video_id": "NeuralTextures_699_734",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.08207587152719498,
+    "p_frequency": 0.8644269526004791
+  },
+  {
+    "video_id": "NeuralTextures_701_579",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.9981635212898254,
+    "p_frequency": 0.8372337045492949
+  },
+  {
+    "video_id": "NeuralTextures_704_723",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.9996204376220703,
+    "p_frequency": 0.9305211166540782
+  },
+  {
+    "video_id": "NeuralTextures_714_842",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.9995469450950623,
+    "p_frequency": 0.430000110467275
+  },
+  {
+    "video_id": "NeuralTextures_718_972",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.9998281002044678,
+    "p_frequency": 0.8440756946802139
+  },
+  {
+    "video_id": "NeuralTextures_721_715",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.9998319149017334,
+    "p_frequency": 0.11858345170815786
+  },
+  {
+    "video_id": "NeuralTextures_733_935",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.9997103810310364,
+    "p_frequency": 0.8836276551087697
+  },
+  {
+    "video_id": "NeuralTextures_735_774",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.7827862501144409,
+    "p_frequency": 0.9658648996126085
+  },
+  {
+    "video_id": "NeuralTextures_746_571",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.9669110774993896,
+    "p_frequency": 0.33436026026805243
+  },
+  {
+    "video_id": "NeuralTextures_747_854",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.8094114661216736,
+    "p_frequency": 0.706234234571457
+  },
+  {
+    "video_id": "NeuralTextures_754_758",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.9949550032615662,
+    "p_frequency": 0.6840527852376302
+  },
+  {
+    "video_id": "NeuralTextures_758_754",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.7242534756660461,
+    "p_frequency": 0.9306250976191627
+  },
+  {
+    "video_id": "NeuralTextures_759_755",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.9998687505722046,
+    "p_frequency": 0.8856789521549059
+  },
+  {
+    "video_id": "NeuralTextures_762_832",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.29167357087135315,
+    "p_frequency": 0.3143646008024613
+  },
+  {
+    "video_id": "NeuralTextures_777_745",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.9999144077301025,
+    "p_frequency": 0.8648006888953123
+  },
+  {
+    "video_id": "NeuralTextures_781_806",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.9996610879898071,
+    "p_frequency": 0.5315145735557263
+  },
+  {
+    "video_id": "NeuralTextures_786_819",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.9999464750289917,
+    "p_frequency": 0.5752922584613164
+  },
+  {
+    "video_id": "NeuralTextures_791_770",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.999796450138092,
+    "p_frequency": 0.9519519028456315
+  },
+  {
+    "video_id": "NeuralTextures_794_779",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.997260332107544,
+    "p_frequency": 0.06057578855409072
+  },
+  {
+    "video_id": "NeuralTextures_824_419",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.004673253279179335,
+    "p_frequency": 0.1878491134985405
+  },
+  {
+    "video_id": "NeuralTextures_825_074",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.850942075252533,
+    "p_frequency": 0.40664605526574726
+  },
+  {
+    "video_id": "NeuralTextures_826_833",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.9956095814704895,
+    "p_frequency": 0.5758143529295922
+  },
+  {
+    "video_id": "NeuralTextures_828_830",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.9999139308929443,
+    "p_frequency": 0.42715088581597366
+  },
+  {
+    "video_id": "NeuralTextures_841_639",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.9998220801353455,
+    "p_frequency": 0.6716823607683182
+  },
+  {
+    "video_id": "NeuralTextures_849_771",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.03380255401134491,
+    "p_frequency": 0.4334854008974852
+  },
+  {
+    "video_id": "NeuralTextures_854_747",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.7559959888458252,
+    "p_frequency": 0.3820831340551376
+  },
+  {
+    "video_id": "NeuralTextures_863_853",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.9923990368843079,
+    "p_frequency": 0.8960650444030762
+  },
+  {
+    "video_id": "NeuralTextures_867_765",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.01335201971232891,
+    "p_frequency": 0.4167051831117043
+  },
+  {
+    "video_id": "NeuralTextures_875_979",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.9992107152938843,
+    "p_frequency": 0.899552161278932
+  },
+  {
+    "video_id": "NeuralTextures_882_952",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.9763240814208984,
+    "p_frequency": 0.57713832706213
+  },
+  {
+    "video_id": "NeuralTextures_887_275",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.9999191761016846,
+    "p_frequency": 0.966951335298604
+  },
+  {
+    "video_id": "NeuralTextures_890_837",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.9993330836296082,
+    "p_frequency": 0.6667050576728323
+  },
+  {
+    "video_id": "NeuralTextures_906_847",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.9998043179512024,
+    "p_frequency": 0.6313780815828414
+  },
+  {
+    "video_id": "NeuralTextures_907_795",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.9284610748291016,
+    "p_frequency": 0.15156995914876462
+  },
+  {
+    "video_id": "NeuralTextures_913_893",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.9997606873512268,
+    "p_frequency": 0.9955210626125336
+  },
+  {
+    "video_id": "NeuralTextures_947_951",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.9960741996765137,
+    "p_frequency": 0.3719803750514984
+  },
+  {
+    "video_id": "NeuralTextures_954_976",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.9967144727706909,
+    "p_frequency": 0.6920601832015174
+  },
+  {
+    "video_id": "NeuralTextures_964_174",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.9998164772987366,
+    "p_frequency": 0.632531036223684
+  },
+  {
+    "video_id": "NeuralTextures_970_973",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.9998955726623535,
+    "p_frequency": 0.8188337047894796
+  },
+  {
+    "video_id": "NeuralTextures_974_953",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.9584578275680542,
+    "p_frequency": 0.4078175073696507
+  },
+  {
+    "video_id": "NeuralTextures_978_975",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.21426506340503693,
+    "p_frequency": 0.5667971848022371
+  },
+  {
+    "video_id": "NeuralTextures_982_004",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.017064470797777176,
+    "p_frequency": 0.3360897021797987
+  },
+  {
+    "video_id": "NeuralTextures_983_113",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.999922513961792,
+    "p_frequency": 0.8990250746409099
+  },
+  {
+    "video_id": "NeuralTextures_986_994",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.9987741112709045,
+    "p_frequency": 0.36851360234949326
+  },
+  {
+    "video_id": "NeuralTextures_990_008",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.9998028874397278,
+    "p_frequency": 0.913701029924246
+  },
+  {
+    "video_id": "NeuralTextures_992_980",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.8612557053565979,
+    "p_frequency": 0.8873418549696604
+  },
+  {
+    "video_id": "NeuralTextures_994_986",
+    "label": 1,
+    "type": "NeuralTextures",
+    "p_spatial": 0.9998996257781982,
+    "p_frequency": 0.7271954174394961
+  }
+]

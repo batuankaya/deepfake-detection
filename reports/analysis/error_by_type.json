@@ -1,0 +1,37 @@
+{
+  "real": {
+    "n": 150,
+    "specificity": 0.92,
+    "false_positive": 12,
+    "p_spatial_mean": 0.0932926320375797,
+    "p_frequency_mean": 0.3826608002002075
+  },
+  "Deepfakes": {
+    "n": 150,
+    "recall": 0.96,
+    "false_negative": 6,
+    "p_spatial_mean": 0.9485655114939436,
+    "p_frequency_mean": 0.874168783154277
+  },
+  "Face2Face": {
+    "n": 150,
+    "recall": 0.9733333333333334,
+    "false_negative": 4,
+    "p_spatial_mean": 0.9754148299433291,
+    "p_frequency_mean": 0.8785291032850061
+  },
+  "FaceSwap": {
+    "n": 151,
+    "recall": 0.9867549668874173,
+    "false_negative": 2,
+    "p_spatial_mean": 0.9838676748543651,
+    "p_frequency_mean": 0.8653526023278537
+  },
+  "NeuralTextures": {
+    "n": 150,
+    "recall": 0.8666666666666667,
+    "false_negative": 20,
+    "p_spatial_mean": 0.8752482349631221,
+    "p_frequency_mean": 0.6791696087153934
+  }
+}

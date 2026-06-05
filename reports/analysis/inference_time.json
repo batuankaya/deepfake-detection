@@ -1,0 +1,310 @@
+{
+  "videos": [
+    "data\\raw\\celeb-df-v2\\Celeb-real\\id0_0000.mp4",
+    "data\\raw\\celeb-df-v2\\Celeb-real\\id0_0001.mp4",
+    "data\\raw\\celeb-df-v2\\Celeb-real\\id0_0002.mp4",
+    "data\\raw\\celeb-df-v2\\Celeb-synthesis\\id0_id16_0000.mp4",
+    "data\\raw\\celeb-df-v2\\Celeb-synthesis\\id0_id16_0001.mp4",
+    "data\\raw\\celeb-df-v2\\Celeb-synthesis\\id0_id16_0002.mp4",
+    "data\\raw\\faceforensics\\DeepFakeDetection\\01_02__meeting_serious__YVGY8LOK.mp4",
+    "data\\raw\\faceforensics\\DeepFakeDetection\\01_02__outside_talking_still_laughing__YVGY8LOK.mp4"
+  ],
+  "devices": {
+    "cuda": {
+      "per_video": [
+        {
+          "video": "id0_0000.mp4",
+          "n_frames": 30,
+          "n_faces": 30,
+          "audio_used": false,
+          "extract": 0.36116699999979573,
+          "face_detect": 1.195818700000018,
+          "spatial": 0.02313030000004801,
+          "frequency": 0.1178363999999874,
+          "audio": 0.8142488999999387,
+          "fusion": 2.5100000129896216e-05,
+          "total": 2.5122263999999177
+        },
+        {
+          "video": "id0_0001.mp4",
+          "n_frames": 21,
+          "n_faces": 21,
+          "audio_used": false,
+          "extract": 0.2603301999999985,
+          "face_detect": 0.7365949,
+          "spatial": 0.024779699999953664,
+          "frequency": 0.08286720000000969,
+          "audio": 0.8145554000000175,
+          "fusion": 2.01999998807878e-05,
+          "total": 1.9191475999998602
+        },
+        {
+          "video": "id0_0002.mp4",
+          "n_frames": 24,
+          "n_faces": 24,
+          "audio_used": false,
+          "extract": 0.2859307000001081,
+          "face_detect": 1.1307855000000018,
+          "spatial": 0.02898319999985688,
+          "frequency": 0.14335270000015043,
+          "audio": 0.8076175999999577,
+          "fusion": 1.889999998638814e-05,
+          "total": 2.3966886000000613
+        },
+        {
+          "video": "id0_id16_0000.mp4",
+          "n_frames": 30,
+          "n_faces": 30,
+          "audio_used": false,
+          "extract": 0.3735547999999653,
+          "face_detect": 1.2143696999999065,
+          "spatial": 0.07839460000013787,
+          "frequency": 0.21356189999983144,
+          "audio": 0.8083590000001095,
+          "fusion": 1.7699999943943112e-05,
+          "total": 2.6882576999998946
+        },
+        {
+          "video": "id0_id16_0001.mp4",
+          "n_frames": 21,
+          "n_faces": 21,
+          "audio_used": false,
+          "extract": 0.24844030000008388,
+          "face_detect": 0.7347296999998889,
+          "spatial": 0.031054000000040105,
+          "frequency": 0.128468200000043,
+          "audio": 0.8106490999998641,
+          "fusion": 1.9199999996999395e-05,
+          "total": 1.953360499999917
+        },
+        {
+          "video": "id0_id16_0002.mp4",
+          "n_frames": 24,
+          "n_faces": 24,
+          "audio_used": false,
+          "extract": 0.2823230000001331,
+          "face_detect": 1.115235900000016,
+          "spatial": 0.08364959999994426,
+          "frequency": 0.28018760000009024,
+          "audio": 0.7987518999998429,
+          "fusion": 1.7600000091988477e-05,
+          "total": 2.5601656000001185
+        },
+        {
+          "video": "01_02__meeting_serious__YVGY8LOK.mp4",
+          "n_frames": 30,
+          "n_faces": 30,
+          "audio_used": false,
+          "extract": 1.3661651999998412,
+          "face_detect": 4.5159591999999975,
+          "spatial": 0.08812729999999647,
+          "frequency": 0.28821620000007897,
+          "audio": 0.8599002999999357,
+          "fusion": 1.650000012887176e-05,
+          "total": 7.118384699999979
+        },
+        {
+          "video": "01_02__outside_talking_still_laughing__YVGY8LOK.mp4",
+          "n_frames": 30,
+          "n_faces": 30,
+          "audio_used": false,
+          "extract": 1.5148986000001514,
+          "face_detect": 3.7079208999998627,
+          "spatial": 0.08298990000002959,
+          "frequency": 0.23334569999997257,
+          "audio": 0.8105898000001162,
+          "fusion": 1.7800000023271423e-05,
+          "total": 6.349762700000156
+        }
+      ],
+      "summary": {
+        "extract": {
+          "mean_s": 0.5866012250000097,
+          "std_s": 0.4961676849010566,
+          "median_s": 0.3235488499999519
+        },
+        "face_detect": {
+          "mean_s": 1.7939268124999614,
+          "std_s": 1.365040315240033,
+          "median_s": 1.1633021000000099
+        },
+        "spatial": {
+          "mean_s": 0.055138575000000856,
+          "std_s": 0.0283461524743768,
+          "median_s": 0.05472430000008899
+        },
+        "frequency": {
+          "mean_s": 0.18597948750002047,
+          "std_s": 0.07308563198359506,
+          "median_s": 0.17845729999999094
+        },
+        "audio": {
+          "mean_s": 0.8155839999999728,
+          "std_s": 0.01737474450056384,
+          "median_s": 0.8106194499999901
+        },
+        "fusion": {
+          "mean_s": 1.912500002276829e-05,
+          "std_s": 2.497874107180447e-06,
+          "median_s": 1.835000000482978e-05
+        },
+        "total": {
+          "mean_s": 3.437249224999988,
+          "std_s": 1.9303092061314797,
+          "median_s": 2.536196000000018
+        },
+        "fps_videos": 0.2909303150690225,
+        "fps_frames": 9.140192550569404,
+        "n_videos": 8
+      }
+    },
+    "cpu": {
+      "per_video": [
+        {
+          "video": "id0_0000.mp4",
+          "n_frames": 30,
+          "n_faces": 30,
+          "audio_used": false,
+          "extract": 0.2833158999999341,
+          "face_detect": 1.0852598000001308,
+          "spatial": 0.22559069999988424,
+          "frequency": 2.7949003999999604,
+          "audio": 0.8051849000000857,
+          "fusion": 1.9600000086938962e-05,
+          "total": 5.194271300000082
+        },
+        {
+          "video": "id0_0001.mp4",
+          "n_frames": 21,
+          "n_faces": 21,
+          "audio_used": false,
+          "extract": 0.18970760000001974,
+          "face_detect": 0.7345806000000721,
+          "spatial": 0.24827769999978955,
+          "frequency": 2.053327900000113,
+          "audio": 0.7920627000000877,
+          "fusion": 1.8299999965165625e-05,
+          "total": 4.017974800000047
+        },
+        {
+          "video": "id0_0002.mp4",
+          "n_frames": 24,
+          "n_faces": 24,
+          "audio_used": false,
+          "extract": 0.22332860000005894,
+          "face_detect": 1.075511699999879,
+          "spatial": 0.23949630000015532,
+          "frequency": 2.3107184999998935,
+          "audio": 0.781792600000017,
+          "fusion": 2.040000003944442e-05,
+          "total": 4.630868100000043
+        },
+        {
+          "video": "id0_id16_0000.mp4",
+          "n_frames": 30,
+          "n_faces": 30,
+          "audio_used": false,
+          "extract": 0.2777673999999024,
+          "face_detect": 1.0509498999999778,
+          "spatial": 0.23763750000011896,
+          "frequency": 2.6794018999999025,
+          "audio": 0.7869121000001087,
+          "fusion": 1.9699999938893598e-05,
+          "total": 5.032688499999949
+        },
+        {
+          "video": "id0_id16_0001.mp4",
+          "n_frames": 21,
+          "n_faces": 21,
+          "audio_used": false,
+          "extract": 0.1918106999999054,
+          "face_detect": 0.7127315000000181,
+          "spatial": 0.23842899999999645,
+          "frequency": 2.0781819999999698,
+          "audio": 0.8005253000001176,
+          "fusion": 1.7500000012660166e-05,
+          "total": 4.02169600000002
+        },
+        {
+          "video": "id0_id16_0002.mp4",
+          "n_frames": 24,
+          "n_faces": 24,
+          "audio_used": false,
+          "extract": 0.23275790000002416,
+          "face_detect": 1.0607363999999961,
+          "spatial": 0.20983939999996437,
+          "frequency": 2.1864149000000452,
+          "audio": 0.7953053999999611,
+          "fusion": 1.7800000023271423e-05,
+          "total": 4.485071800000014
+        },
+        {
+          "video": "01_02__meeting_serious__YVGY8LOK.mp4",
+          "n_frames": 30,
+          "n_faces": 30,
+          "audio_used": false,
+          "extract": 1.051265899999862,
+          "face_detect": 3.0909701000000496,
+          "spatial": 0.24700030000008155,
+          "frequency": 2.7824545999999373,
+          "audio": 0.7969656000000214,
+          "fusion": 1.7399999933331856e-05,
+          "total": 7.968673899999885
+        },
+        {
+          "video": "01_02__outside_talking_still_laughing__YVGY8LOK.mp4",
+          "n_frames": 30,
+          "n_faces": 30,
+          "audio_used": false,
+          "extract": 1.0466182000000117,
+          "face_detect": 3.9612197999999808,
+          "spatial": 0.25307599999996455,
+          "frequency": 3.1630287999998927,
+          "audio": 0.8772381000001133,
+          "fusion": 2.3099999907572055e-05,
+          "total": 9.30120399999987
+        }
+      ],
+      "summary": {
+        "extract": {
+          "mean_s": 0.4370715249999648,
+          "std_s": 0.3547133269919409,
+          "median_s": 0.2552626499999633
+        },
+        "face_detect": {
+          "mean_s": 1.596494975000013,
+          "std_s": 1.1438288400871257,
+          "median_s": 1.0681240499999376
+        },
+        "spatial": {
+          "mean_s": 0.23741836249999437,
+          "std_s": 0.013042144933445698,
+          "median_s": 0.23896265000007588
+        },
+        "frequency": {
+          "mean_s": 2.5060536249999643,
+          "std_s": 0.37911993461100457,
+          "median_s": 2.495060199999898
+        },
+        "audio": {
+          "mean_s": 0.804498337500064,
+          "std_s": 0.028346192474889873,
+          "median_s": 0.7961354999999912
+        },
+        "fusion": {
+          "mean_s": 1.9224999988409763e-05,
+          "std_s": 1.8012148532765385e-06,
+          "median_s": 1.8950000026052294e-05
+        },
+        "total": {
+          "mean_s": 5.581556049999989,
+          "std_s": 1.8360757254421172,
+          "median_s": 4.831778299999996
+        },
+        "fps_videos": 0.17916150819626758,
+        "fps_frames": 4.9635803286990665,
+        "n_videos": 8
+      }
+    }
+  }
+}

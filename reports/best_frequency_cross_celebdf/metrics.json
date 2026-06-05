@@ -1,0 +1,22 @@
+{
+  "checkpoint": "C:\\Users\\user\\deepfake-detection\\checkpoints\\best_frequency.pt",
+  "module": "frequency",
+  "split": "cross_celebdf",
+  "num_samples": 162877,
+  "num_misclassified": 45951,
+  "metrics": {
+    "loss": 0.5710977873312993,
+    "accuracy": 0.7178791357895835,
+    "precision": 0.9168610552182197,
+    "recall": 0.7377160745882673,
+    "f1": 0.8175903394452803,
+    "auc_roc": 0.7353307236765974,
+    "eer": 0.3294701029905142,
+    "eer_threshold": 0.58349609375
+  },
+  "metrics_at_eer_threshold": {
+    "threshold": 0.58349609375,
+    "accuracy": 0.6704568478053992,
+    "f1": 0.7771425249845338
+  }
+}
